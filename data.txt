@@ -333,7 +333,7 @@ INTERNATIONAL TOTAL|38|0||
 # source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 # update: 2020-01-27 4:18:00 ET
 # place|confirmed_cases|deaths|notes|sources
-<strong>MAINLAND CHINA</strong>|<strong>Cases</strong>|<strong>Deaths</strong>|<strong>Notes</strong>|
+MAINLAND CHINA|Cases</strong>|<strong>Deaths</strong>|<strong>Notes</strong>|
 Hubei|1,423|76|221 serious, 69 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200127_2015306.shtml
 Guangdong|146|0|20 serious, 6 critical|http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2879365.html
 Zhejiang|128|0|18 serious|https://www.zjwjw.gov.cn/art/2020/1/27/art_1202101_41857304.html
@@ -365,7 +365,7 @@ Shanxi|13|0||http://wjw.shanxi.gov.cn/wjywl02/24356.hrh
 Inner Mongolia|11|0||http://wjw.nmg.gov.cn/doc/2020/01/27/285096.shtml
 Qinghai|4|0||https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/01/26/1580018654048.html
 CHINA TOTAL|2,804|81||
-<strong>REGIONS</strong>|<strong>Cases</strong>|<strong>Deaths</strong>|<strong>Notes</strong>|
+REGIONS|Cases</strong>|<strong>Deaths</strong>|<strong>Notes</strong>|
 Hong Kong|8|0||https://www.info.gov.hk/gia/general/202001/27/P2020012700049.htm
 Taiwan|5|0||https://www.cdc.gov.tw/Bulletin/Detail/gOZvd4ZaGpSDVoVRC2Qesg?typeid=9
 Macau|6|0||https://www.tdm.com.mo/c_news/radio_news.php?id=452638
@@ -733,7 +733,7 @@ Xinjiang|14|0|3 serious, 1 critical|http://www.xjhfpc.gov.cn/info/1495/17669.htm
 Guizhou|12|0|3 serious|https://m.weibo.cn/detail/4466356474788544
 Qinghai|6|0|All stable|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/01/27/1580130159651.html
 Tibet|1|0||http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-CHINA TOTAL|7,728|170|1,370 serious<br>124 recovered<br>12,167 suspected|
+CHINA TOTAL|7,728|170|1,370 serious, 124 recovered, 12,167 suspected|
 Hong Kong|10|0||https://www.info.gov.hk/gia/general/202001/29/P2020012900784.htm
 Taiwan|8|0||https://www.cdc.gov.tw/Bulletin/Detail/-lN6bM-ZCU-nWv1gUIXxOg?typeid=9
 Macau|7|0||https://www.tdm.com.mo/c_news/radio_news.php?id=452787
@@ -789,11 +789,11 @@ Xinjiang|14|0|3 serious, 1 critical|http://www.xjhfpc.gov.cn/info/1495/17669.htm
 Guizhou|12|0|3 serious|https://m.weibo.cn/detail/4466356474788544
 Qinghai|8|0|1 serious, 7 stable|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/01/30/1580377969996.html
 Tibet|1|0||http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-CHINA TOTAL|7,804|170|<strong>1,370 serious<br>124 recovered<br>12,167 suspected</strong>|
+CHINA TOTAL|7,804|170|1,370 serious, 124 recovered, 12,167 suspected|
 Hong Kong|10|0||https://www.info.gov.hk/gia/general/202001/29/P2020012900784.htm
 Taiwan|9|0|All stable|https://www.cdc.gov.tw/Bulletin/Detail/la2OXqyRoqsTXVpJihy8-w?typeid=9
 Macau|7|0||https://www.tdm.com.mo/c_news/radio_news.php?id=452787
-GREATER CHINA TOTAL|26|0|<strong>0 serious</strong>|
+GREATER CHINA TOTAL|26|0|0 serious|
 Thailand|14|0||https://news.thaipbs.or.th/content/288389
 Japan|11|0||https://www.mhlw.go.jp/stf/newpage_09205.html
 Singapore|10|0|Stable|https://www.moh.gov.sg/news-highlights/details/three-more-confirmed-imported-cases-of-wuhan-coronavirus-infection-in-singapore
@@ -812,7 +812,7 @@ Sri Lanka|1|0||https://www.reuters.com/article/us-health-china-sri-lanka/sri-lan
 Finland|1|0||https://www.hs.fi/kotimaa/art-2000006387778.html
 Philippines|1|0||https://www.facebook.com/OfficialDOHgov/videos/225636625111007/?__xts__%5B0%5D=68.ARB2CfWuuZHSyYkkZ0NW1dDIvx59QnEtSNgbjGd2MuDU1568cXifz9IX439U9YcsJveS34el84mqPv1GEw6pXfPaHIwy1l6Vqa3W7S-gCOPOws4FumjjFzwItWpxSCTO8xq16eDHhjqk8oW_VIgBsh3uj-4t2JhANJDfW9hcTPWmS4fykCLkMgOTJe_y9DlhEEoQ5_sFr_myTPAUJzpsVbRMI9GAiSQL5c033GoA1EH9kc5DTBDvhVDr8vtly0vfDa0lxYG4_CuIKPR0xinR-DQkcwVeNX_ColcoajhJIqHqBpebxIAIymRi4DPkb16rre6jvdRw3evpQ8SFpj2mhY8-Slae7OF2fuk&amp;__tn__=-R
 India|1|0|Stable|https://pib.gov.in/PressReleseDetail.aspx?PRID=1601095
-INTERNATIONAL TOTAL|89|0|<strong>2 serious</strong>|
+INTERNATIONAL TOTAL|89|0|2 serious|
 # source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 # update: 2020-01-30 13:35:00 ET
 # place|confirmed_cases|deaths|notes|sources
@@ -847,11 +847,11 @@ Xinjiang|14|0|3 serious, 1 critical|http://www.xjhfpc.gov.cn/info/1495/17669.htm
 Guizhou|12|0|3 serious|https://m.weibo.cn/detail/4466356474788544
 Qinghai|8|0|1 serious, 7 stable|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/01/30/1580377969996.html
 Tibet|1|0||http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-CHINA TOTAL|7,804|170|<strong>1,370 serious<br>124 recovered<br>12,167 suspected</strong>|
+CHINA TOTAL|7,804|170|1,370 serious, 124 recovered, 12,167 suspected|
 Hong Kong|10|0||https://www.info.gov.hk/gia/general/202001/29/P2020012900784.htm
 Taiwan|9|0|All stable|https://www.cdc.gov.tw/Bulletin/Detail/la2OXqyRoqsTXVpJihy8-w?typeid=9
 Macau|7|0||https://www.tdm.com.mo/c_news/radio_news.php?id=452787
-GREATER CHINA TOTAL|26|0|<strong>0 serious</strong>|
+GREATER CHINA TOTAL|26|0|0 serious|
 Thailand|14|0||https://news.thaipbs.or.th/content/288389
 Japan|12*|0||https://www.mhlw.go.jp/stf/newpage_09236.html
 Singapore|10|0|Stable|https://www.moh.gov.sg/news-highlights/details/three-more-confirmed-imported-cases-of-wuhan-coronavirus-infection-in-singapore
@@ -870,7 +870,7 @@ Sri Lanka|1|0||https://www.reuters.com/article/us-health-china-sri-lanka/sri-lan
 Finland|1|0||https://www.hs.fi/kotimaa/art-2000006387778.html
 Philippines|1|0||https://www.facebook.com/OfficialDOHgov/videos/225636625111007/?__xts__%5B0%5D=68.ARB2CfWuuZHSyYkkZ0NW1dDIvx59QnEtSNgbjGd2MuDU1568cXifz9IX439U9YcsJveS34el84mqPv1GEw6pXfPaHIwy1l6Vqa3W7S-gCOPOws4FumjjFzwItWpxSCTO8xq16eDHhjqk8oW_VIgBsh3uj-4t2JhANJDfW9hcTPWmS4fykCLkMgOTJe_y9DlhEEoQ5_sFr_myTPAUJzpsVbRMI9GAiSQL5c033GoA1EH9kc5DTBDvhVDr8vtly0vfDa0lxYG4_CuIKPR0xinR-DQkcwVeNX_ColcoajhJIqHqBpebxIAIymRi4DPkb16rre6jvdRw3evpQ8SFpj2mhY8-Slae7OF2fuk&amp;__tn__=-R
 India|1|0|Stable|https://pib.gov.in/PressReleseDetail.aspx?PRID=1601095
-INTERNATIONAL TOTAL|92|0|<strong>2 serious</strong>|
+INTERNATIONAL TOTAL|92|0|2 serious|
 # source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 # update: 2020-01-31 8:29:00 ET
 # place|confirmed_cases|deaths|notes|sources
@@ -905,11 +905,11 @@ Xinjiang|17|0|3 serious, 1 critical|http://www.xjhfpc.gov.cn/info/1495/17772.htm
 Guizhou|29|0|5 serious|https://m.weibo.cn/status/4466828350739464
 Qinghai|8|0|1 serious, 7 stable|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/01/30/1580377969996.html
 Tibet|1|0||http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-CHINA TOTAL|9,780|213|<strong>1,527 serious<br>171 recovered<br>15,238 suspected</strong>|
+CHINA TOTAL|9,780|213|1,527 serious, 171 recovered, 15,238 suspected|
 Hong Kong|12|0||https://www.info.gov.hk/gia/general/202001/31/P2020013100015.htm
 Taiwan|9|0|All stable|https://www.cdc.gov.tw/Bulletin/Detail/la2OXqyRoqsTXVpJihy8-w?typeid=9
 Macau|7|0||https://www.tdm.com.mo/c_news/radio_news.php?id=452787
-GREATER CHINA TOTAL|28|0|<strong>0 serious</strong>|
+GREATER CHINA TOTAL|28|0|0 serious|
 Thailand|19|0|7 recovered|https://www.bbc.com/thai/amp/thailand-51321489
 Japan|15*|0||https://www.mhlw.go.jp/stf/newpage_09271.html
 Singapore|16|0|All stable|https://bnonews.com/wp-content/uploads/2020/01/1312020SingaporeCases.pdf
@@ -931,7 +931,7 @@ Finland|1|0||https://www.hs.fi/kotimaa/art-2000006387778.html
 Philippines|1|0||https://www.facebook.com/OfficialDOHgov/videos/225636625111007/?__xts__%5B0%5D=68.ARB2CfWuuZHSyYkkZ0NW1dDIvx59QnEtSNgbjGd2MuDU1568cXifz9IX439U9YcsJveS34el84mqPv1GEw6pXfPaHIwy1l6Vqa3W7S-gCOPOws4FumjjFzwItWpxSCTO8xq16eDHhjqk8oW_VIgBsh3uj-4t2JhANJDfW9hcTPWmS4fykCLkMgOTJe_y9DlhEEoQ5_sFr_myTPAUJzpsVbRMI9GAiSQL5c033GoA1EH9kc5DTBDvhVDr8vtly0vfDa0lxYG4_CuIKPR0xinR-DQkcwVeNX_ColcoajhJIqHqBpebxIAIymRi4DPkb16rre6jvdRw3evpQ8SFpj2mhY8-Slae7OF2fuk&amp;__tn__=-R
 India|1|0|Stable|https://pib.gov.in/PressReleseDetail.aspx?PRID=1601095
 Italy|2|0||http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html
-INTERNATIONAL TOTAL|120|0|<strong>2 serious</strong>|
+INTERNATIONAL TOTAL|120|0|2 serious|
 # source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 # update: 2020-01-31 17:32:00 ET
 # place|confirmed_cases|deaths|notes|sources
@@ -966,11 +966,11 @@ Xinjiang|17|0|3 serious, 1 critical|http://www.xjhfpc.gov.cn/info/1495/17772.htm
 Guizhou|29|0|5 serious|https://m.weibo.cn/status/4466828350739464
 Qinghai|8|0|1 serious, 7 stable|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/01/30/1580377969996.html
 Tibet|1|0||http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-CHINA TOTAL|11,145|258|<strong>1,527 serious<br>171 recovered<br>15,238 suspected</strong>|
+CHINA TOTAL|11,145|258|1,527 serious, 171 recovered, 15,238 suspected|
 Hong Kong|13|0||https://www.info.gov.hk/gia/general/202001/31/P2020013100798.htm
 Taiwan|10|0||https://www.mohw.gov.tw/cp-4636-51263-1.html
 Macau|7|0||https://www.tdm.com.mo/c_news/radio_news.php?id=452787
-GREATER CHINA TOTAL|30|0|<strong>0 serious</strong>|
+GREATER CHINA TOTAL|30|0|0 serious|
 Thailand|19|0|7 recovered|https://www.bbc.com/thai/amp/thailand-51321489
 Japan|17*|0||https://www.mhlw.go.jp/stf/newpage_09271.html
 Singapore|16|0|All stable|https://bnonews.com/wp-content/uploads/2020/01/1312020SingaporeCases.pdf
@@ -994,7 +994,7 @@ India|1|0|Stable|https://pib.gov.in/PressReleseDetail.aspx?PRID=1601095
 Italy|2|0||http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html
 Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
-INTERNATIONAL TOTAL|127|0|<strong>2 serious</strong>|
+INTERNATIONAL TOTAL|127|0|2 serious|
 # source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 # update: 2020-01-31 22:30:00 ET
 # place|confirmed_cases|deaths|notes|sources
@@ -1030,11 +1030,11 @@ Guizhou|29|0|5 serious|https://m.weibo.cn/status/4466828350739464
 Qinghai|9|0|1 serious, 7 stable|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/02/01/1580517954192.html
 Tibet|1|0||http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
 Undisclosed|23|0||http://www.nhc.gov.cn/yjb/s7860/202002/84faf71e096446fdb1ae44939ba5c528.shtml
-CHINA TOTAL|11,791|259|<strong>1,795 serious<br>243 recovered<br>17,988 suspected</strong>|
+CHINA TOTAL|11,791|259|1,795 serious, 243 recovered, 17,988 suspected|
 Hong Kong|13|0||https://www.info.gov.hk/gia/general/202001/31/P2020013100798.htm
 Taiwan|10|0||https://www.mohw.gov.tw/cp-4636-51263-1.html
 Macau|7|0||https://www.tdm.com.mo/c_news/radio_news.php?id=452787
-GREATER CHINA TOTAL|30|0|<strong>0 serious</strong>|
+GREATER CHINA TOTAL|30|0|0 serious|
 Thailand|19|0|7 recovered|https://www.bbc.com/thai/amp/thailand-51321489
 Japan|17*|0||https://www.mhlw.go.jp/stf/newpage_09271.html
 Singapore|16|0|All stable|https://bnonews.com/wp-content/uploads/2020/01/1312020SingaporeCases.pdf
@@ -1058,7 +1058,7 @@ India|1|0|Stable|https://pib.gov.in/PressReleseDetail.aspx?PRID=1601095
 Italy|2|0||http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html
 Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
-INTERNATIONAL TOTAL|129|0|<strong>2 serious</strong>|
+INTERNATIONAL TOTAL|129|0|2 serious|
 # source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 # update: 2020-02-1 2:53:00 ET
 # place|confirmed_cases|deaths|notes|sources
@@ -1093,11 +1093,11 @@ Xinjiang|18|0|4 serious, 1 critical|http://www.xjhfpc.gov.cn/info/1495/17846.htm
 Guizhou|29|0|5 serious|https://m.weibo.cn/status/4466828350739464
 Qinghai|9|0|1 serious, 7 stable|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/02/01/1580517954192.html
 Tibet|1|0||http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-CHINA TOTAL|11,825|259|<strong>1,795 serious<br>243 recovered<br>17,988 suspected</strong>|
+CHINA TOTAL|11,825|259|1,795 serious, 243 recovered, 17,988 suspected|
 Hong Kong|13|0||https://www.info.gov.hk/gia/general/202001/31/P2020013100798.htm
 Taiwan|10|0||https://www.mohw.gov.tw/cp-4636-51263-1.html
 Macau|7|0||https://www.tdm.com.mo/c_news/radio_news.php?id=452787
-GREATER CHINA TOTAL|30|0|<strong>0 serious</strong>|
+GREATER CHINA TOTAL|30|0|0 serious|
 Thailand|19|0|7 recovered|https://www.bbc.com/thai/amp/thailand-51321489
 Japan|17*|0||https://www.mhlw.go.jp/stf/newpage_09271.html
 Singapore|16|0|All stable|https://bnonews.com/wp-content/uploads/2020/01/1312020SingaporeCases.pdf
@@ -1121,7 +1121,7 @@ India|1|0|Stable|https://pib.gov.in/PressReleseDetail.aspx?PRID=1601095
 Italy|2|0||http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html
 Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
-INTERNATIONAL TOTAL|132|0|<strong>2 serious</strong>|
+INTERNATIONAL TOTAL|132|0|2 serious|
 # source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 # update: 2020-02-1 4:31:00 ET
 # place|confirmed_cases|deaths|notes|sources
@@ -1156,11 +1156,11 @@ Xinjiang|18|0|4 serious, 1 critical|http://www.xjhfpc.gov.cn/info/1495/17846.htm
 Guizhou|29|0|5 serious|https://m.weibo.cn/status/4466828350739464
 Qinghai|9|0|1 serious, 7 stable|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/02/01/1580517954192.html
 Tibet|1|0||http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-CHINA TOTAL|11,857|259|<strong>1,795 serious<br>243 recovered<br>17,988 suspected</strong>|
+CHINA TOTAL|11,857|259|1,795 serious, 243 recovered, 17,988 suspected|
 Hong Kong|13|0||https://www.info.gov.hk/gia/general/202001/31/P2020013100798.htm
 Taiwan|10|0||https://www.mohw.gov.tw/cp-4636-51263-1.html
 Macau|7|0||https://www.tdm.com.mo/c_news/radio_news.php?id=452787
-GREATER CHINA TOTAL|30|0|<strong>0 serious</strong>|
+GREATER CHINA TOTAL|30|0|0 serious|
 Thailand|19|0|7 recovered|https://www.bbc.com/thai/amp/thailand-51321489
 Japan|17*|0||https://www.mhlw.go.jp/stf/newpage_09271.html
 Singapore|16|0|All stable|https://bnonews.com/wp-content/uploads/2020/01/1312020SingaporeCases.pdf
@@ -1184,7 +1184,7 @@ India|1|0|Stable|https://pib.gov.in/PressReleseDetail.aspx?PRID=1601095
 Italy|2|0||http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html
 Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
-INTERNATIONAL TOTAL|132|0|<strong>2 serious</strong>|
+INTERNATIONAL TOTAL|132|0|2 serious|
 # source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 # update: 2020-02-1 21:42:00 ET
 # place|confirmed_cases|deaths|notes|sources
@@ -1220,11 +1220,11 @@ Guizhou|29|0|5 serious|https://m.weibo.cn/status/4466828350739464
 Qinghai|9|0|1 serious, 7 stable|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/02/01/1580517954192.html
 Tibet|1|0||http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
 Undisclosed|557|||https://m.weibo.cn/status/4467434461716971
-CHINA TOTAL|14,380|304|<strong>2,110 serious<br>328 recovered<br>19,544 suspected</strong>|
+CHINA TOTAL|14,380|304|2,110 serious, 328 recovered, 19,544 suspected|
 Hong Kong|13|0||https://www.info.gov.hk/gia/general/202001/31/P2020013100798.htm
 Taiwan|10|0||https://www.mohw.gov.tw/cp-4636-51263-1.html
 Macau|7|0||https://www.tdm.com.mo/c_news/radio_news.php?id=452787
-GREATER CHINA TOTAL|30|0|<strong>0 serious</strong>|
+GREATER CHINA TOTAL|30|0|0 serious|
 Thailand|19|0|7 recovered|https://www.bbc.com/thai/amp/thailand-51321489
 Japan|20*|0||https://www.mhlw.go.jp/stf/newpage_09278.html
 Singapore|18|0|All stable|https://bnonews.com/wp-content/uploads/2020/02/212020case.pdf
@@ -1248,7 +1248,7 @@ India|1|0|Stable|https://pib.gov.in/PressReleseDetail.aspx?PRID=1601095
 Italy|2|0||http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html
 Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
-INTERNATIONAL TOTAL|144|1|<strong>2 serious</strong>|
+INTERNATIONAL TOTAL|144|1|2 serious|
 # source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 # update: 2020-02-2 16:21:00 ET
 # place|confirmed_cases|deaths|notes|sources
@@ -1283,11 +1283,11 @@ Jilin|23|0|4 serious|http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200202_6672614.h
 Xinjiang|21|0|4 serious, 1 critical|http://www.xjhfpc.gov.cn/info/1495/17882.htm
 Qinghai|11|0|1 serious, 7 stable|https://m.weibo.cn/status/4467497853599632
 Tibet|1|0|Stable|http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-CHINA TOTAL|14,474|304|<strong>2,110 serious<br>328 recovered<br>19,544 suspected</strong>|
+CHINA TOTAL|14,474|304|2,110 serious, 328 recovered, 19,544 suspected|
 Hong Kong|14|0||https://www.info.gov.hk/gia/general/202002/01/P2020020100795.htm
 Taiwan|10|0||https://www.mohw.gov.tw/cp-4636-51263-1.html
 Macau|8|0||https://news.gov.mo/detail/zh-hant/N20BBaGyMz;jsessionid=0D60BE8F971A9AF94452A61990D0B88B.app03?0
-GREATER CHINA TOTAL|32|0|<strong>0 serious</strong>|
+GREATER CHINA TOTAL|32|0|0 serious|
 Japan|20*|0||https://www.mhlw.go.jp/stf/newpage_09278.html
 Thailand|19|0|7 recovered|https://www.bbc.com/thai/amp/thailand-51321489
 Singapore|18|0|All stable|https://bnonews.com/wp-content/uploads/2020/02/212020case.pdf
@@ -1311,7 +1311,7 @@ Sri Lanka|1|0|1 recovered|https://www.reuters.com/article/us-health-china-sri-la
 Finland|1|0||https://www.hs.fi/kotimaa/art-2000006387778.html
 Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
-INTERNATIONAL TOTAL|148|1|<strong>2 serious</strong>|
+INTERNATIONAL TOTAL|148|1|2 serious|
 # source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 # update: 2020-02-2 18:40:00 ET
 # place|confirmed_cases|deaths|notes|sources
@@ -1346,11 +1346,11 @@ Jilin|23|0|4 serious|http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200202_6672614.h
 Xinjiang|21|0|4 serious, 1 critical|http://www.xjhfpc.gov.cn/info/1495/17882.htm
 Qinghai|11|0|1 serious, 7 stable|https://m.weibo.cn/status/4467497853599632
 Tibet|1|0|Stable|http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-CHINA TOTAL|16,587|361|<strong>2,110 serious<br>408 recovered<br>19,544 suspected</strong>|
+CHINA TOTAL|16,587|361|2,110 serious, 408 recovered, 19,544 suspected|
 Hong Kong|14|0||https://www.info.gov.hk/gia/general/202002/01/P2020020100795.htm
 Taiwan|10|0||https://www.mohw.gov.tw/cp-4636-51263-1.html
 Macau|8|0||https://news.gov.mo/detail/zh-hant/N20BBaGyMz;jsessionid=0D60BE8F971A9AF94452A61990D0B88B.app03?0
-GREATER CHINA TOTAL|32|0|<strong>0 serious</strong>|
+GREATER CHINA TOTAL|32|0|0 serious|
 Japan|20*|0||https://www.mhlw.go.jp/stf/newpage_09278.html
 Thailand|19|0|7 recovered|https://www.bbc.com/thai/amp/thailand-51321489
 Singapore|18|0|All stable|https://bnonews.com/wp-content/uploads/2020/02/212020case.pdf
@@ -1374,7 +1374,7 @@ Sri Lanka|1|0|1 recovered|https://www.reuters.com/article/us-health-china-sri-la
 Finland|1|0||https://www.hs.fi/kotimaa/art-2000006387778.html
 Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
-INTERNATIONAL TOTAL|149|1|<strong>2 serious</strong>|
+INTERNATIONAL TOTAL|149|1|2 serious|
 # source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 # update: 2020-02-3 1:48:00 ET
 # place|confirmed_cases|deaths|notes|sources
@@ -1409,11 +1409,11 @@ Jilin|31|0|4 serious, 1 critical|https://m.weibo.cn/status/4467797520329383
 Xinjiang|24|0|6 serious, 2 critical|http://www.xjhfpc.gov.cn/info/1495/17952.htm
 Qinghai|13|0|1 serious, 7 stable|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/02/03/1580692540948.html
 Tibet|1|0|Stable|http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-CHINA TOTAL|17,207|361|<strong>2,296 serious<br>475 recovered<br>21,558 suspected</strong>|
+CHINA TOTAL|17,207|361|2,296 serious, 475 recovered, 21,558 suspected|
 Hong Kong|15|0||https://www.info.gov.hk/gia/general/202002/02/P2020020200627.htm
 Taiwan|10|0||https://www.mohw.gov.tw/cp-4636-51263-1.html
 Macau|8|0||https://news.gov.mo/detail/zh-hant/N20BBaGyMz;jsessionid=0D60BE8F971A9AF94452A61990D0B88B.app03?0
-GREATER CHINA TOTAL|33|0|<strong>0 serious</strong>|
+GREATER CHINA TOTAL|33|0|0 serious|
 Japan|20*|0||https://www.mhlw.go.jp/stf/newpage_09278.html
 Thailand|19|0|7 recovered|https://www.bbc.com/thai/amp/thailand-51321489
 Singapore|18|0|All stable|https://bnonews.com/wp-content/uploads/2020/02/212020case.pdf
@@ -1437,7 +1437,7 @@ Sri Lanka|1|0|1 recovered|https://www.reuters.com/article/us-health-china-sri-la
 Finland|1|0||https://www.hs.fi/kotimaa/art-2000006387778.html
 Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
-INTERNATIONAL TOTAL|153|1|<strong>2 serious</strong>|
+INTERNATIONAL TOTAL|153|1|2 serious|
 # source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 # update: 2020-02-3 5:02:00 ET
 # place|confirmed_cases|deaths|notes|sources
@@ -1472,11 +1472,11 @@ Jilin|31|0|4 serious, 1 critical|https://m.weibo.cn/status/4467797520329383
 Xinjiang|24|0|6 serious, 2 critical|http://www.xjhfpc.gov.cn/info/1495/17952.htm
 Qinghai|13|0|1 serious, 7 stable|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/02/03/1580692540948.html
 Tibet|1|0|Stable|http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-CHINA TOTAL|17,300|361|<strong>2,296 serious<br>475 recovered<br>21,558 suspected</strong>|
+CHINA TOTAL|17,300|361|2,296 serious, 475 recovered, 21,558 suspected|
 Hong Kong|15|0||https://www.info.gov.hk/gia/general/202002/02/P2020020200627.htm
 Taiwan|10|0||https://www.mohw.gov.tw/cp-4636-51263-1.html
 Macau|8|0||https://news.gov.mo/detail/zh-hant/N20BBaGyMz;jsessionid=0D60BE8F971A9AF94452A61990D0B88B.app03?0
-GREATER CHINA TOTAL|33|0|<strong>0 serious</strong>|
+GREATER CHINA TOTAL|33|0|0 serious|
 Japan|20*|0||https://www.mhlw.go.jp/stf/newpage_09278.html
 Thailand|19|0|7 recovered|https://www.bbc.com/thai/amp/thailand-51321489
 Singapore|18|0|All stable|https://bnonews.com/wp-content/uploads/2020/02/212020case.pdf
@@ -1500,4 +1500,133 @@ Sri Lanka|1|0|1 recovered|https://www.reuters.com/article/us-health-china-sri-la
 Finland|1|0||https://www.hs.fi/kotimaa/art-2000006387778.html
 Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
-INTERNATIONAL TOTAL|153|1|<strong>2 serious</strong>|
+INTERNATIONAL TOTAL|153|1|2 serious|
+# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
+# update: 2020-02-3 22:45:00 ET
+# place|confirmed_cases|deaths|notes|sources
+Hubei|13,522|414|1,567 serious, 576 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200204_2018742.shtml
+Zhejiang|829|0|43 serious, 15 critical|https://www.zjwjw.gov.cn/art/2020/2/4/art_1202101_41873518.html
+Guangdong|725|0|58 serious, 22 critical|http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2882427.html
+Henan|675|2|39 serious, 15 critical|https://m.weibo.cn/status/4468161329843481
+Hunan|521|0|58 serious|http://wjw.hunan.gov.cn/wjw/xxgk/gzdt/zyxw_1/202002/t20200203_11168209.html
+Anhui|480|0|5 critical|http://wjw.ah.gov.cn/news_details_54495.html
+Jiangxi|391|0| 34 serious |http://hc.jiangxi.gov.cn/doc/2020/02/03/138004.shtml
+Chongqing|337|2|23 serious, 6 critical|http://wsjkw.cq.gov.cn/tzgg/20200204/251086.html
+Jiangsu|308|0|2 serious|https://m.weibo.cn/status/4468164152840902
+Sichuan|283*|1|13 critical|https://m.weibo.cn/detail/4468165767943061
+Shandong|270|0|20 serious, 2 critical|https://m.weibo.cn/status/4468164513770872
+Beijing|212|1|11 critical|http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202002/t20200203_1624239.html
+Shanghai|208|1|8 serious, 6 critical|https://m.weibo.cn/status/4468150240796389
+Fujian|179|0|13 serious, 7 critical|http://headline.fjtv.net/folder875/2020-02-03/2163617.html
+Shaanxi|128|0|1+ serious|http://sxwjw.shaanxi.gov.cn/art/2020/2/3/art_9_67666.html
+Guangxi|139|0|8 serious, 4 critical|http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovyqtb/2020/0204/68331.html
+Yunnan|114|0|7 serious, 3 critical|https://m.weibo.cn/status/4467911324556064
+Hebei|126|1|12 serious|http://www.hebwst.gov.cn/index.do?id=396582&amp;templet=content&amp;cid=14
+Heilongjiang|155|2|17 serious|http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/7756/navid/42/stypeid/
+Liaoning|74|0|6 serious|https://m.weibo.cn/status/4467970845282103
+Hainan|79|1|10 serious|https://m.weibo.cn/detail/4468015657466283 http://wst.hainan.gov.cn/swjw/rdzt/yqfk/202002/t20200204_2743793.html https://m.weibo.cn/detail/4468015657466283
+Shanxi|74|0|5 serious|http://wjw.shanxi.gov.cn/wjywl02/24658.hrh
+Tianjin|60|0|15 serious, 3 critical|https://m.weibo.cn/detail/4467993511586229
+Gansu|55|0|7 serious, 2 critical|http://wsjk.gansu.gov.cn/single/10910/83617.html
+Guizhou|56|0|6 serious, 6 critical|https://m.weibo.cn/status/4468161409664449
+Ningxia|31|0|4 serious|http://wsjkw.nx.gov.cn/info/1140/13412.htm
+Inner Mongolia|34|0|1+ serious|http://wjw.nmg.gov.cn/doc/2020/02/03/287405.shtml
+Jilin|42|0|3 serious, 2 critical|https://m.weibo.cn/status/4468155139056565
+Xinjiang|29|0|8 serious, 2 critical|http://www.xjhfpc.gov.cn/info/1495/17972.htm
+Qinghai|15|0|1 serious|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/02/04/1580776390411.html
+Tibet|1|0|Stable|http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
+Undisclosed|286|0||https://m.weibo.cn/status/4468153025205829
+CHINA TOTAL|20,438|425|2,788 serious, 632 recovered, 23,214 suspected|
+Hong Kong|15|1||https://news.rthk.hk/rthk/en/component/k2/1506503-20200204.htm
+Taiwan|10|0||https://www.mohw.gov.tw/cp-4636-51263-1.html
+Macau|9|0||https://news.gov.mo/detail/zh-hant/N20BDrZ3z3?1
+GREATER CHINA TOTAL|34|1|0 serious|
+Japan|20*|0||https://www.mhlw.go.jp/stf/newpage_09278.html
+Thailand|19|0|7 recovered|https://www.bbc.com/thai/amp/thailand-51321489
+Singapore|18|0|All stable|https://bnonews.com/wp-content/uploads/2020/02/212020case.pdf
+South Korea|15|0||https://www.yna.co.kr/view/AKR20200202000700017
+Australia|12||2 recovered|https://www.abc.net.au/news/2020-02-01/coronavirus-confirmed-in-south-australia-and-victoria/11920754
+Germany|12|0||https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-10/
+Malaysia|8|0|Stable|https://kpkesihatan.com/2020/01/30/kenyataan-akhbar-kpk-30-januari-2020-situasi-terkini-jangkitan-2019-novel-coronavirus-2019-ncov-di-malaysia/
+United States|11|0||https://bnonews.com/wp-content/uploads/2020/02/222020Case.pdf
+Vietnam|9|0|2 recovered|https://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/viet-nam-co-ca-nhiem-virus-corona-thu-9-la-nguoi-tro-ve-tu-vu-han-613294.html
+France|6|0|1 serious|https://www.francetvinfo.fr/sante/maladie/coronavirus/coronavirus-2019-ncov-les-six-cas-confirmes-en-france-sont-dans-un-etat-stable-selon-le-directeur-general-de-la-sante_3811051.html
+UAE|5|0|Stable|https://www.wam.ae/en/details/1395302820367
+Canada|4|0||https://news.ontario.ca/mohltc/en/2020/01/ontario-confirms-third-case-of-2019-novel-coronavirus.html
+England|2|0||https://www.gov.uk/government/news/cmo-confirms-cases-of-coronavirus-in-england
+Russia|2|0||https://tass.ru/obschestvo/7656549
+Philippines|2|1||https://twitter.com/WHOPhilippines/status/1223797298477424641
+India|3|0|Stable|https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681
+Italy|2|0||http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html
+Nepal|1|0||https://kathmandupost.com/2/2020/01/24/officials-confirm-novel-coronavirus-in-nepali-man-who-returned-from-wuhan-earlier-this-month
+Cambodia|1|0||https://twitter.com/VOD_English/status/1221769368180121603
+Sri Lanka|1|0|1 recovered|https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF
+Finland|1|0||https://www.hs.fi/kotimaa/art-2000006387778.html
+Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
+Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
+INTERNATIONAL TOTAL|156|1|1 serious|
+# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
+# update: 2020-02-4 20:52:00 ET
+# place|confirmed_cases|deaths|notes|sources
+Hubei|16,678|479|1,809 serious, 711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml
+Zhejiang|895|0|49 serious, 16 critical|https://www.zjwjw.gov.cn/art/2020/2/5/art_1202101_41877651.html
+Guangdong|813|0|60 serious, 26 critical|http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2883626.html
+Henan|764|2|38 serious, 19 critical|https://m.weibo.cn/status/4468524224936382
+Hunan|661|0|57 serious|http://wjw.hunan.gov.cn/wjw/xxgk/gzdt/zyxw_1/202002/t20200205_11170191.html
+Anhui|530|0|5 critical|http://wjw.ah.gov.cn/news_details_54548.html
+Jiangxi|476|0| 37 serious |http://hc.jiangxi.gov.cn/doc/2020/02/04/138072.shtml
+Chongqing|366|2|24 serious, 10 critical|http://wsjkw.cq.gov.cn/tzgg/20200205/252088.html
+Jiangsu|341|0|3 serious|https://m.weibo.cn/status/4468526570239002
+Sichuan|302*|1|14 critical|https://m.weibo.cn/status/4468522342120636
+Shandong|298|0|21 serious, 4 critical|https://m.weibo.cn/status/4468522950108669
+Beijing|228|1|9 critical|https://m.weibo.cn/status/4468277256747197
+Shanghai|233|1|8 serious, 7 critical|https://m.weibo.cn/detail/4468511725846726
+Fujian|194|0|15 serious, 7 critical|https://mp.weixin.qq.com/s/g-KCNP1tEzclt40OUxnFgg
+Shaanxi|142|0|1+ serious|http://sxwjw.shaanxi.gov.cn/art/2020/2/4/art_9_67724.html
+Guangxi|150|0|10 serious, 4 critical|http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovyqtb/2020/0205/68385.html
+Yunnan|122|0|13 serious, 3 critical|https://m.weibo.cn/status/4468501408683388
+Hebei|135|1|12 serious|http://www.hebwst.gov.cn/index.do?id=396743&amp;templet=content&amp;cid=14
+Heilongjiang|190|2|21 serious|http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/7759/navid/42/stypeid/
+Liaoning|81|0|6 serious|http://wsjk.ln.gov.cn/wst_wsjskx/202002/t20200204_3733940.html
+Hainan|80|1|10 serious|https://m.weibo.cn/detail/4468015657466283 http://wst.hainan.gov.cn/swjw/rdzt/yqfk/202002/t20200204_2743793.html https://m.weibo.cn/detail/4468015657466283
+Shanxi|81|0|4 serious, 4 critical|http://wjw.shanxi.gov.cn/wjywl02/24697.hrh
+Tianjin|67|0|17 serious, 4 critical|https://m.weibo.cn/detail/4468345388281570
+Gansu|57|0|7 serious, 3 critical|http://wsjk.gansu.gov.cn/single/10910/83666.html
+Guizhou|64|0|6 serious, 2 critical|https://m.weibo.cn/status/4468526477631339
+Ningxia|34|0|6 serious|http://wsjkw.nx.gov.cn/info/1140/13484.htm
+Inner Mongolia|35|0||http://wjw.nmg.gov.cn/doc/2020/02/04/290542.shtml
+Jilin|54|0|3 serious, 2 critical|https://m.weibo.cn/status/4468517891861972
+Xinjiang|29|0|8 serious, 2 critical|http://www.xjhfpc.gov.cn/info/1495/17972.htm
+Qinghai|17|0|1 serious|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/02/05/1580863223569.html
+Tibet|1|0|Stable|http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
+Undisclosed|206|0||http://www.nhc.gov.cn/yjb/s7860/202002/17a03704a99646ffad6807bc806f37a4.shtml
+CHINA TOTAL|24,324|490|3,219 serious, 892 recovered, 23,260 suspected|
+Hong Kong|18|1||https://www.info.gov.hk/gia/general/202002/05/P2020020400729.htm
+Taiwan|11|0||https://www.cdc.gov.tw/Bulletin/Detail/UkMLn272PYqss-tXBbIFoQ?typeid=9
+Macau|10|0||https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3
+GREATER CHINA TOTAL|39|1|0 serious|
+Japan|33*|0||https://www.mhlw.go.jp/stf/newpage_09276.html
+Thailand|25|0|1 serious, 8 recovered|https://www.bbc.com/thai/thailand-51367988
+Singapore|24|0|1 recovered|https://www.moh.gov.sg/news-highlights/details/confirmed-cases-of-local-transmission-of-novel-coronavirus-infection-in-singapore
+South Korea|18|0||https://www.yna.co.kr/view/AKR20200203098600017
+Australia|13|0|2 recovered|https://www.health.qld.gov.au/news-events/doh-media-releases/releases/queensland-coronavirus-update3
+Germany|12|0||https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-10/
+Malaysia|10|0|Stable|https://twitter.com/KKMPutrajaya/status/1224593259176968194
+United States|11|0||https://bnonews.com/wp-content/uploads/2020/02/222020Case.pdf
+Vietnam|10|0|3 recovered|https://www.vietnamnet.vn/vn/thoi-su/nguoi-thu-10-nhiem-corona-da-den-nha-cong-nhan-o-vinh-phuc-hat-karaoke-613730.html
+France|6|0|1 serious|https://www.francetvinfo.fr/sante/maladie/coronavirus/coronavirus-2019-ncov-les-six-cas-confirmes-en-france-sont-dans-un-etat-stable-selon-le-directeur-general-de-la-sante_3811051.html
+UAE|5|0|Stable|https://www.wam.ae/en/details/1395302820367
+Canada|5|0||https://www.cbc.ca/news/canada/british-columbia/2nd-case-of-coronavirus-confirmed-in-b-c-1.5451915
+England|2|0||https://www.gov.uk/government/news/cmo-confirms-cases-of-coronavirus-in-england
+Russia|2|0||https://tass.ru/obschestvo/7656549
+Philippines|2|1||https://twitter.com/WHOPhilippines/status/1223797298477424641
+India|3|0|Stable|https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681
+Italy|2|0|2 serious|http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html
+Nepal|1|0||https://kathmandupost.com/2/2020/01/24/officials-confirm-novel-coronavirus-in-nepali-man-who-returned-from-wuhan-earlier-this-month
+Cambodia|1|0||https://twitter.com/VOD_English/status/1221769368180121603
+Sri Lanka|1|0|1 recovered|https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF
+Finland|1|0||https://www.hs.fi/kotimaa/art-2000006387778.html
+Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
+Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
+Belgium|1|0||https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/
+INTERNATIONAL TOTAL|190|1|4 serious|
