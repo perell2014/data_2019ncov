@@ -1631,9 +1631,9 @@ Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/20
 Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
 Belgium|1|0||https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/
 INTERNATIONAL TOTAL|190|1|4 serious|
-source: BNO @ https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
-update: 2020-02-6 9:46:00 ET
-place|confirmed_cases|deaths|notes|sources
+# source: BNO @ https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
+# update: 2020-02-6 9:46:00 ET
+# place|confirmed_cases|deaths|notes|sources
 Hubei|19,665|550|2,328 serious, 756 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200206_2019847.shtml
 Zhejiang |954|0|51 serious, 15 critical|https://www.zjwjw.gov.cn/art/2020/2/6/art_1202101_41881119.html
 Guangdong |970|0|84 serious, 32 critical|http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2885363.html
@@ -1751,9 +1751,9 @@ Finland|1|0|1 recovered|https://yle.fi/uutiset/osasto/news/finlands_first_corona
 Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
 Belgium|1|0||https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/
-source: BNO @ https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
-update: 2020-02-7 9:09:00 ET
-place|confirmed_cases|deaths|notes|sources
+# source: BNO @ https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
+# update: 2020-02-7 9:09:00 ET
+# place|confirmed_cases|deaths|notes|sources
 Hubei|24,953|699|4,188 serious, 1,007 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200208_2021418.shtml
 Guangdong |1,034|1|85 serious, 34 critical|https://m.weibo.cn/status/4469364353005712
 Zhejiang |1,006|0|51 serious, 21 critical|https://www.zjwjw.gov.cn/art/2020/2/7/art_1202101_41884591.html
@@ -1815,9 +1815,9 @@ Sweden|1|0|empty|https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsark
 Spain|1|0|empty|https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
 Belgium|1|0|empty|https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/
 2020-02-08 17:17:00
-source: BNO @ https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
-update:2020-02-08 17:17:00 ET
-place|confirmed_cases|deaths|notes|sources
+# source: BNO @ https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
+# update:2020-02-08 17:17:00 ET
+#place|confirmed_cases|deaths|notes|sources
 Hubei|27,100|780|4,093 serious, 1,154 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200209_2021930.shtml
 Guangdong |1,095|1|86 serious, 38 critical|http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2888192.html
 Zhejiang |1,048|0|53 serious, 25 critical|https://www.zjwjw.gov.cn/art/2020/2/8/art_1202101_41890388.html
