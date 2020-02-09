@@ -1,0 +1,48 @@
+2020-02-09 01:25:28,937 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:26:21,537 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:26:22,196 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 01:26:22,609 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 01:26:59,146 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:27:00,582 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 01:27:01,496 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 01:28:24,529 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:28:24,671 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 01:28:25,359 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 01:28:45,700 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:28:45,838 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 01:28:46,609 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 01:28:47,137 INFO __main__ No need to scrape data file last date:2020-02-08 17:17:00 web last update:020-02-08 20:02:00
+2020-02-09 01:32:02,763 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:32:03,268 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 01:32:04,101 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 01:32:32,766 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:32:32,989 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 01:32:33,754 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 01:32:34,270 INFO __main__ No need to scrape data file last date:2020-02-08 17:17:00 web last update:020-02-08 20:02:00
+2020-02-09 01:33:33,971 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:33:34,304 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 01:33:35,068 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 01:33:35,578 INFO __main__ Successfull Append of the data file extraction with the last update:2020-02-08 20:02:00
+2020-02-09 01:34:55,589 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:34:55,878 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 01:34:56,648 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 01:34:57,137 INFO __main__ Successfull Append of the data file extraction with the last update:2020-02-08 20:02:00
+2020-02-09 01:35:17,431 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:35:17,588 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 01:35:18,433 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 01:35:18,930 INFO __main__ Successfull Append of the data file extraction with the last update:2020-02-08 20:02:00
+2020-02-09 01:36:18,816 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:36:19,041 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 01:36:19,768 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 01:36:20,260 INFO __main__ Successfull Append of the data file extraction with the last update:2020-02-08 20:02:00
+2020-02-09 01:38:26,246 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:38:26,420 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 01:38:27,216 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 01:39:06,886 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:39:07,041 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 01:39:07,791 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 01:39:08,275 INFO __main__ Successfull Append of the data file extraction with the last update:2020-02-08 17:17:00web last update: 2020-02-08 20:02:00
+2020-02-09 01:40:45,419 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 01:40:45,826 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 01:40:46,907 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 01:40:47,376 INFO __main__ Successfull Append of the data file extraction with the last update:2020-02-08 17:17:00 web last update: 2020-02-08 20:02:00
