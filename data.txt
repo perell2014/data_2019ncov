@@ -1876,4 +1876,66 @@ Sri Lanka|1|0|1 recovered|https://www.reuters.com/article/us-health-china-sri-la
 Finland|1|0|1 recovered|https://yle.fi/uutiset/osasto/news/finlands_first_coronavirus_patient_released_from_hospital_symptom-free/11193661
 Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
+Belgium|1|0||https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/# source: BNO @ https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
+# update:2020-02-08 20:02:00 ET
+# place|confirmed_cases|deaths|notes|sources
+Hubei|27,100|780|4,093 serious, 1,154 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200209_2021930.shtml
+Guangdong |1,095|1|86 serious, 38 critical|http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2888192.html
+Zhejiang |1,048|0|53 serious, 25 critical|https://www.zjwjw.gov.cn/art/2020/2/8/art_1202101_41890388.html
+Henan |981|4|58 serious, 28 critical|https://m.weibo.cn/status/4469615763854619
+Hunan |803|1|56 serious|https://m.weibo.cn/detail/4469739122390609
+Anhui |733|0|6 critical|http://wjw.ah.gov.cn/news_details_54672.html
+Jiangxi |698|0|61 serious |http://hc.jiangxi.gov.cn/doc/2020/02/08/138433.shtml
+Chongqing|428|2|31 serious, 17 critical|http://wsjkw.cq.gov.cn/tzgg/20200208/252719.html
+Jiangsu |439|0|4 serious, 2 critical|https://m.weibo.cn/status/4469614027601267
+Shandong |416|0|25 serious, 7 critical|https://m.weibo.cn/detail/4469710214671587
+Sichuan |364*|1|20 critical|https://m.weibo.cn/status/4469613796748238
+Beijing|315|2|1+ critical|https://m.weibo.cn/detail/4469644544990553
+Shanghai|286|1|12 serious, 8 critical|http://wsjkw.sh.gov.cn/xwfb/20200208/28cc33026c754317a3463256024ef5ce.html
+Heilongjiang |295|5|38 serious|http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/7762/navid/42/stypeid/
+Fujian |239|0|12 serious, 8 critical|http://headline.fjtv.net/folder875/2020-02-08/2168529.html
+Shaanxi |195|0|1+ serious|http://sxwjw.shaanxi.gov.cn/art/2020/2/8/art_9_67873.html
+Guangxi Region|183|0|7 serious, 8 critical|http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovyqtb/2020/0208/68542.html
+Hebei |195|1|16 serious|http://www.hebwst.gov.cn/index.do?id=397504&templet=content&cid=14
+Yunnan |138|0|15 serious, 3 critical|http://www.bjnews.com.cn/feature/2020/02/08/686220.html
+Hainan |124|2|13 serious|https://m.weibo.cn/detail/4469618502446670
+Shanxi |104|0|6 serious, 6 critical|http://wjw.shanxi.gov.cn/wjywl02/24758.hrh
+Liaoning |103|0|14 serious, 1 critical|https://m.weibo.cn/status/4469706410874349
+Tianjin|88|1|32 serious, 5 critical|https://m.weibo.cn/detail/4469647032393927
+Guizhou |89|1|9 serious, 9 critical|http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200208_47776446.html
+Gansu |71|1|7 serious, 2 critical|http://wsjk.gansu.gov.cn/single/10910/83839.html
+Jilin |69|1|5 serious, 1 critical|https://m.weibo.cn/detail/4469604653292027
+Inner Mongolia|52|0||http://wjw.nmg.gov.cn/doc/2020/02/08/291115.shtml
+Ningxia Region|45|0|1 serious|http://wsjkw.nx.gov.cn/info/1140/13645.htm
+Xinjiang|42|0|9 serious, 2 critical|http://www.xjhfpc.gov.cn/info/1495/18152.htm
+Qinghai |18|0|1 serious|https://m.weibo.cn/status/4468903075418422
+Tibet|1|0|Stable|http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
+Undisclosed|441|7||http://www.nhc.gov.cn/yjb/s7860/202002/4f28ab5ca87d42d284833df3ccc8d45a.shtml
+China|37,198|811||
+Hong Kong|26|1||https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf
+Taiwan|17|0|1 recovered|https://www.cdc.gov.tw/Bulletin/Detail/CngpYj-4R7LFxtHUDUK5Vw?typeid=9
+Macau|10|0||https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3
+Japan|89*|0|4 recovered|https://this.kiji.is/598672585603007585?c=39550187727945729
+Singapore|40|0|4 critical, 2 recovered|https://www.moh.gov.sg/news-highlights/details/seven-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
+Thailand|32|0|1 serious, 10 recovered|https://pr.moph.go.th/?url=pr/detail/2/04/138421/
+South Korea|25|0|1 recovered|https://en.yna.co.kr/view/AEN20200209000600320
+Australia|15|0|5 recovered|https://www.health.gov.au/news/coronavirus-update-at-a-glance
+Malaysia|16|0|15 stable, 1 recovered|https://twitter.com/KKMPutrajaya/status/1226065545872592896
+Germany|14|0||https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-14/
+United States|12|0|3 recovered|https://edition.cnn.com/2020/02/07/us/illinois-coronavirus-patients-discharge/index.html
+Vietnam|13|0|3 recovered|https://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/ca-duong-tinh-virus-corona-thu-13-o-viet-nam-613604.html
+Canada|7|0||https://news.gov.bc.ca/releases/2020HLTH0025-000236
+France|11|0|1 serious|https://www.lefigaro.fr/sciences/coronavirus-5-nouveaux-cas-en-france-20200208
+UAE|7|0||https://wam.ae/ar/details/1395302822121
+United Kingdom|3|0||https://www.gov.uk/government/news/cmo-confirms-third-case-of-coronavirus-in-england
+Philippines|3|1||https://www.youtube.com/watch?v=_pIluXrMHCk
+India|3|0|Stable|https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681
+Italy|3|0|2 serious|https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2020/02/03/coronavirus-accertamenti-su-italiano-alla-cecchignola-_b20da9f2-57a5-4870-978f-23e9c50d6155.html
+Russia|2|0||https://tass.ru/obschestvo/7656549
+Nepal|1|0||https://kathmandupost.com/2/2020/01/24/officials-confirm-novel-coronavirus-in-nepali-man-who-returned-from-wuhan-earlier-this-month
+Cambodia|1|0|1 recovered|https://twitter.com/VOD_English/status/1221769368180121603
+Sri Lanka|1|0|1 recovered|https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF
+Finland|1|0|1 recovered|https://yle.fi/uutiset/osasto/news/finlands_first_coronavirus_patient_released_from_hospital_symptom-free/11193661
+Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
+Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
 Belgium|1|0||https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/
