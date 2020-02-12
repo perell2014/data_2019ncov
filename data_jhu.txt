@@ -1,7 +1,5 @@
-Update
 404: Not Found
 
-02-01-2020_1800.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/1/2020 11:53,7153,249,168
 Zhejiang,Mainland China,2/1/2020 10:53,599,0,21
@@ -71,7 +69,6 @@ Tibet,Mainland China,2/1/2020 1:52,1,0,0
 "Seattle, WA",US,2/1/2020 19:43,1,0,0
 "Tempe, AZ",US,2/1/2020 19:43,1,0,0
 
-01-21-2020_2200.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Suspected
 Anhui,Mainland China,1/21/2020 10pm,,,,3
 Beijing,Mainland China,1/21/2020 10pm,10,,,
@@ -100,7 +97,6 @@ Zhejiang,Mainland China,1/21/2020 10pm,5,,,16
 Washington,US,1/21/2020 10pm,1,,,
 ,South Korea,1/21/2020 10pm,1,,,
 ,Thailand,1/21/2020 10pm,2,,,
-01-22-2020_1200.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Suspected,ConfnSusp
 Anhui,Mainland China,1/22/20 12:00,1,,,4,5
 Beijing,Mainland China,1/22/20 12:00,14,,,,14
@@ -140,7 +136,6 @@ Zhejiang,Mainland China,1/22/20 12:00,10,,,,10
 ,Japan,1/22/20 12:00,2,,,,2
 ,Thailand,1/22/20 12:00,2,,,,2
 ,South Korea,1/22/20 12:00,1,,,,1
-01-23-2020_1200.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Suspected,ConfnSusp
 Anhui,Mainland China,1/23/20 12:00,9,,,4,13
 Beijing,Mainland China,1/23/20 12:00,22,,,,22
@@ -188,7 +183,6 @@ Zhejiang,Mainland China,1/23/20 12:00,27,,,,27
 ,Mexico,1/23/20 12:00,,,,1,1
 ,Brazil,1/23/20 12:00,,,,1,1
 ,Colombia,1/23/20 12:00,,,,1,1
-01-24-2020_0000.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Suspected,ConfnSusp
 Hubei,Mainland China,1/24/2020  12am,549,24,31,,549
 Guangdong,Mainland China,1/24/2020  12am,53,,2,,53
@@ -228,7 +222,6 @@ Washington,US,1/24/2020  12am,1,,,,1
 ,South Korea,1/24/2020  12am,1,,,,1
 ,Singapore ,1/24/2020  12am,1,,,,1
 ,Vietnam,1/24/2020  12am,2,,,,2
-01-24-2020_1200.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Suspected,ConfnSusp
 Hubei,Mainland China,1/24/2020  12pm,549,24,31,,549
 Guangdong,Mainland China,1/24/2020  12pm,53,,2,,53
@@ -271,7 +264,6 @@ Chicago,US,1/24/2020  12pm,1,,,,1
 ,Singapore ,1/24/2020  12pm,3,,,,3
 ,Vietnam,1/24/2020  12pm,2,,,,2
 ,France,1/24/2020  4pm,2,,,,
-01-25-2020_0000.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Suspected,ConfnSusp
 Hubei,Mainland China,1/25/2020  12am,729,39,32,,729
 Guangdong,Mainland China,1/25/2020  12am,78,,2,,78
@@ -317,7 +309,6 @@ Illinois,US,1/25/2020  12am,1,,,,1
 ,Australia,1/25/2020  12am,1,,,,1
 ,Nepal,1/25/2020  12am,1,,,,1
 ,Malaysia ,1/25/2020  12am,3,,,,3
-01-25-2020_1200.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Suspected,ConfnSusp
 Hubei,Mainland China,1/25/2020  12pm,761,40,32,,761
 Guangdong,Mainland China,1/25/2020  12pm,78,,2,,78
@@ -363,7 +354,6 @@ Illinois,US,1/25/2020  12pm,1,,,,1
 ,Australia,1/25/2020  12pm,4,,,,4
 ,Nepal,1/25/2020  12pm,1,,,,1
 ,Malaysia ,1/25/2020  12pm,3,,,,3
-01-25-2020_2200.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Suspected,ConfnSusp
 Hubei,Mainland China,1/25/2020  10pm,1052,52,42,,1052
 Zhejiang,Mainland China,1/25/2020  10pm,104,,1,,104
@@ -409,7 +399,6 @@ Illinois,US,1/25/2020  12pm,1,,,,1
 ,Australia,1/25/2020  12pm,4,,,,4
 ,Nepal,1/25/2020  12pm,1,,,,1
 ,Malaysia ,1/25/2020  12pm,3,,,,3
-01-26-2020_1100.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Suspected,ConfnSusp
 Hubei,Mainland China,1/26/20 11:00,1058,52,42,,1058
 Guangdong,Mainland China,1/26/20 11:00,111,,2,,111
@@ -458,7 +447,6 @@ Arizona,US,1/26/20 16:30,1,,,,1
 ,Nepal,1/26/20 11:00,1,,,,1
 ,Malaysia ,1/26/20 11:00,4,,,,4
 Ontario,Canada,1/26/20 11:00,1,,,,1
-01-26-2020_2300.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/26/20 23:00,1423,76,44
 Guangdong,Mainland China,1/26/20 23:00,146,,2
@@ -507,7 +495,6 @@ Arizona,US,1/26/20 23:00,1,,
 ,Nepal,1/26/20 23:00,1,,
 ,Malaysia ,1/26/20 23:00,4,,
 Ontario,Canada,1/26/20 23:00,1,,
-01-27-2020_0900.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/27/20 9:00,1423,76,45
 Guangdong,Mainland China,1/27/20 9:00,151,,3
@@ -557,7 +544,6 @@ Arizona,US,1/27/20 9:00,1,,
 ,Malaysia ,1/27/20 9:00,4,,
 Ontario,Canada,1/27/20 9:00,1,,
 ,Cambodia,1/27/20 9:00,1,,
-01-27-2020_1900.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/27/20 19:00,1423,76,45
 Guangdong,Mainland China,1/27/20 19:00,151,,4
@@ -610,7 +596,6 @@ Ontario,Canada,1/27/20 19:00,1,,
 ,Ivory Coast,1/27/20 19:00,1,,
 New South Wales,Australia,1/27/20 19:00,4,,
 Victoria,Australia,1/27/20 19:00,1,,
-01-27-2020_2030.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/27/20 20:30,2714,100,47
 Zhejiang,Mainland China,1/27/20 20:30,173,,1
@@ -664,7 +649,6 @@ Ontario,Canada,1/27/20 20:30,1,,
 New South Wales,Australia,1/27/20 20:30,4,,
 Victoria,Australia,1/27/20 20:30,1,,
 Bavaria,Germany,1/27/20 20:30,1,,
-01-28-2020_1300.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/28/20 13:00,2714,100,52
 Guangdong,Mainland China,1/28/20 13:00,207,,4
@@ -717,7 +701,6 @@ Ontario,Canada,1/28/20 13:00,2,,
 New South Wales,Australia,1/28/20 13:00,4,,
 Victoria,Australia,1/28/20 13:00,1,,
 Bavaria,Germany,1/28/20 13:00,1,,
-01-28-2020_1800.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/28/20 18:00,3554,125,80
 Guangdong,Mainland China,1/28/20 18:00,207,,4
@@ -771,7 +754,6 @@ British Columbia,Canada,1/28/20 18:00,1,,
 New South Wales,Australia,1/28/20 18:00,4,,
 Victoria,Australia,1/28/20 18:00,1,,
 Bavaria,Germany,1/28/20 18:00,4,,
-01-28-2020_2300.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/28/20 23:00,3554,125,80
 Zhejiang,Mainland China,1/28/20 23:00,296,,3
@@ -825,7 +807,6 @@ British Columbia,Canada,1/28/20 23:00,1,,
 New South Wales,Australia,1/28/20 23:00,4,,
 Victoria,Australia,1/28/20 23:00,1,,
 Bavaria,Germany,1/28/20 23:00,4,,
-01-29-2020_1330.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/29/20 13:30,3554,125,80
 Guangdong,Mainland China,1/29/20 13:30,277,,4
@@ -881,7 +862,6 @@ Victoria,Australia,1/29/20 13:30,1,,
 ,France,1/29/20 13:30,4,,
 Bavaria,Germany,1/29/20 13:30,4,,
 ,Finland,1/29/20 13:30,1,,
-01-29-2020_1430.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/29/20 14:30,3554,125,88
 Zhejiang,Mainland China,1/29/20 14:30,296,,3
@@ -937,7 +917,6 @@ Victoria,Australia,1/29/20 14:30,1,,
 Bavaria,Germany,1/29/20 14:30,4,,
 ,Finland,1/29/20 14:30,1,,
 ,United Arab Emirates,1/29/20 14:30,4,,
-01-29-2020_2100.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Notes
 Hubei,Mainland China,1/29/20 21:00,4586,162,90,
 Zhejiang,Mainland China,1/29/20 21:00,428,,4,
@@ -995,7 +974,6 @@ Queensland,Australia,1/29/20 21:00,1,,,
 Bavaria,Germany,1/29/20 21:00,4,,,
 ,Finland,1/29/20 21:00,1,,,
 ,United Arab Emirates,1/29/20 21:00,4,,,
-01-30-2020_1100.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/30/20 11:00,4903,162,90
 Zhejiang,Mainland China,1/30/20 11:00,428,,4
@@ -1055,7 +1033,6 @@ Bavaria,Germany,1/30/20 11:00,4,,
 ,United Arab Emirates,1/30/20 11:00,4,,
 ,Philippines,1/30/20 11:00,1,,
 ,India,1/30/20 11:00,1,,
-01-30-2020_2130.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/30/20 21:30,5806,204,116
 Zhejiang,Mainland China,1/30/20 21:30,537,,9
@@ -1116,7 +1093,6 @@ Bavaria,Germany,1/30/20 21:30,4,,
 ,Philippines,1/30/20 21:30,1,,
 ,India,1/30/20 21:30,1,,
 ,Italy,1/30/20 21:30,2,,
-01-31-2020_1400.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/31/20 14:00,5806,204,141
 Zhejiang,Mainland China,1/31/20 14:00,538,,14
@@ -1180,7 +1156,6 @@ British Columbia,Canada,1/31/20 14:00,1,,
 ,Philippines,1/31/20 14:00,1,,
 ,India,1/31/20 14:00,1,,
 ,Sweden,1/31/20 14:00,1,,
-02-01-2020_1000.csv
 ﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/1/20 10:00,7153,249,168
 Zhejiang,Mainland China,2/1/20 10:00,599,,21
@@ -1246,7 +1221,6 @@ Bavaria,Germany,2/1/20 10:00,7,,
 ,Russia,2/1/20 10:00,2,,
 ,Spain,2/1/20 10:00,1,,
 ,UK,2/1/20 10:00,2,,
-02-01-2020_1800.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/1/2020 11:53,7153,249,168
 Zhejiang,Mainland China,2/1/2020 10:53,599,0,21
@@ -1316,10 +1290,8 @@ Tibet,Mainland China,2/1/2020 1:52,1,0,0
 "Seattle, WA",US,2/1/2020 19:43,1,0,0
 "Tempe, AZ",US,2/1/2020 19:43,1,0,0
 
-Update
 404: Not Found
 
-02-01-2020_1800.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/1/2020 11:53,7153,249,168
 Zhejiang,Mainland China,2/1/2020 10:53,599,0,21
@@ -1389,7 +1361,6 @@ Tibet,Mainland China,2/1/2020 1:52,1,0,0
 "Seattle, WA",US,2/1/2020 19:43,1,0,0
 "Tempe, AZ",US,2/1/2020 19:43,1,0,0
 
-02-01-2020_2300.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/1/2020 23:33,9074,294,215
 Zhejiang,Mainland China,2/2/2020 2:13,661,0,23
@@ -1458,7 +1429,6 @@ Tibet,Mainland China,2/1/2020 1:52,1,0,0
 "Santa Clara, CA",US,2/1/2020 19:53,1,0,0
 "Seattle, WA",US,2/1/2020 19:43,1,0,0
 "Tempe, AZ",US,2/1/2020 19:43,1,0,0
-02-02-2020_0500.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/1/2020 23:33:00,11177,350,295
 Zhejiang,Mainland China,2/2/2020 2:13:00,661,0,32
@@ -1527,7 +1497,6 @@ Tibet,Mainland China,2/1/2020 1:52:00,1,0,0
 "Santa Clara, CA",US,2/1/2020 19:53:00,1,0,0
 "Seattle, WA",US,2/1/2020 19:43:00,1,0,0
 "Tempe, AZ",US,2/1/2020 19:43:00,1,0,0
-02-02-2020_1945.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/2/2020 23:43:00,11177,350,295
 Zhejiang,Mainland China,2/2/2020 18:03:00,661,0,32
@@ -1596,7 +1565,6 @@ Tibet,Mainland China,1/31/2020 8:15:00,1,0,0
 "Santa Clara, CA",US,2/1/2020 19:53:00,1,0,0
 "Seattle, WA",US,2/1/2020 19:43:00,1,0,0
 "Tempe, AZ",US,2/1/2020 19:43:00,1,0,0
-02-02-2020_2100.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/2/2020 23:43,11177,350,295
 Zhejiang,Mainland China,2/3/2020 1:33,724,0,36
@@ -1665,7 +1633,6 @@ Tibet,Mainland China,2/1/2020 1:52,1,0,0
 "Orange, CA",US,2/1/2020 19:53,1,0,0
 "Seattle, WA",US,2/1/2020 19:43,1,0,0
 "Tempe, AZ",US,2/1/2020 19:43,1,0,0
-02-03-2020_1230.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/3/2020 13:33,11177,350,300
 Guangdong,Mainland China,2/3/2020 12:53,725,0,21
@@ -1735,7 +1702,6 @@ Tibet,Mainland China,2/1/2020 1:52,1,0,0
 "Orange, CA",US,2/1/2020 19:53,1,0,0
 "Seattle, WA",US,2/1/2020 19:43,1,0,0
 "Tempe, AZ",US,2/1/2020 19:43,1,0,0
-02-03-2020_2140.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/4/20 1:23,13522,414,396
 Zhejiang,Mainland China,2/4/20 1:43,829,0,48
@@ -1806,7 +1772,6 @@ Tibet,Mainland China,2/1/20 1:52,1,0,0
 "Orange, CA",US,2/1/20 19:53,1,0,0
 "Seattle, WA",US,2/1/20 19:43,1,0,0
 "Tempe, AZ",US,2/1/20 19:43,1,0,0
-02-04-2020_0800.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/4/20 9:43,13522,414,397
 Zhejiang,Mainland China,2/4/20 13:03,829,0,62
@@ -1877,7 +1842,6 @@ Tibet,Mainland China,2/1/20 1:52,1,0,0
 "Orange, CA",US,2/1/20 19:53,1,0,0
 "Seattle, WA",US,2/1/20 19:43,1,0,0
 "Tempe, AZ",US,2/1/20 19:43,1,0,0
-02-04-2020_1150.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/4/20 9:43,13522,414,397
 Zhejiang,Mainland China,2/4/20 13:03,829,0,62
@@ -1949,7 +1913,6 @@ Tibet,Mainland China,2/1/20 1:52,1,0,0
 "Orange, CA",US,2/1/20 19:53,1,0,0
 "Seattle, WA",US,2/1/20 19:43,1,0,0
 "Tempe, AZ",US,2/1/20 19:43,1,0,0
-02-04-2020_2200.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/4/20 23:43,16678,479,522
 Zhejiang,Mainland China,2/5/20 1:33,895,0,63
@@ -2021,7 +1984,6 @@ Tibet,Mainland China,2/1/20 1:52,1,0,0
 "Orange, CA",US,2/1/20 19:53,1,0,0
 "Seattle, WA",US,2/1/20 19:43,1,0,0
 "Tempe, AZ",US,2/1/20 19:43,1,0,0
-02-05-2020_1220.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/5/20 16:43,16678,479,538
 Guangdong,Mainland China,2/5/20 13:23,895,0,49
@@ -2093,7 +2055,6 @@ Tibet,Mainland China,2/1/20 1:52,1,0,0
 "Orange, CA",US,2/1/20 19:53,1,0,0
 "Seattle, WA",US,2/1/20 19:43,1,0,0
 "Tempe, AZ",US,2/1/20 19:43,1,0,0
-02-06-2020_1318.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/6/20 12:33,19665,549,712
 Guangdong,Mainland China,2/6/20 12:43,970,0,69
@@ -2166,7 +2127,6 @@ Tibet,Mainland China,2/1/20 1:52,1,0,0
 "Orange, CA",US,2/1/20 19:53,1,0,0
 "Seattle, WA",US,2/1/20 19:43,1,0,0
 "Tempe, AZ",US,2/1/20 19:43,1,0,0
-02-06-2020_2005.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/6/20 23:23,22112,618,817
 Guangdong,Mainland China,2/6/20 12:43,970,0,69
@@ -2239,7 +2199,6 @@ Tibet,Mainland China,2/1/20 1:52,1,0,0
 "Orange, CA",US,2/1/20 19:53,1,0,0
 "Seattle, WA",US,2/1/20 19:43,1,0,0
 "Tempe, AZ",US,2/1/20 19:43,1,0,0
-02-07-2020_2024.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/7/20 14:03,22112,618,867
 Guangdong,Mainland China,2/7/20 10:13,1034,1,88
@@ -2313,7 +2272,6 @@ Tibet,Mainland China,2/1/20 1:52,1,0,0
 "Orange, CA",US,2/1/20 19:53,1,0,0
 "Seattle, WA",US,2/1/20 19:43,1,0,0
 "Tempe, AZ",US,2/1/20 19:43,1,0,0
-02-08-2020_1024.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/8/20 14:03,24953,699,1218
 Guangdong,Mainland China,2/8/20 11:53,1095,1,112
@@ -2387,7 +2345,6 @@ Tibet,Mainland China,2/1/20 1:52,1,0,0
 "Orange, CA",US,2/1/20 19:53,1,0,0
 "Seattle, WA",US,2/1/20 19:43,1,0,0
 "Tempe, AZ",US,2/1/20 19:43,1,0,0
-02-08-2020_2304.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2/9/20 3:03,27100,780,1440
 Guangdong,Mainland China,2/9/20 1:53,1120,1,125
@@ -2461,7 +2418,6 @@ Tibet,Mainland China,2/1/20 1:52,1,0,0
 "Orange, CA",US,2/1/20 19:53,1,0,0
 "Seattle, WA",US,2/1/20 19:43,1,0,0
 "Tempe, AZ",US,2/1/20 19:43,1,0,0
-02-09-2020_1030.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2020-02-09 11:13:28,27100,780,1480
 Guangdong,Mainland China,2020-02-09 15:03:05,1131,1,141
@@ -2536,7 +2492,6 @@ Tibet,Mainland China,2020-02-01 01:52:40,1,0,0
 "Seattle, WA",US,2020-02-09 07:03:04,1,0,1
 "Tempe, AZ",US,2020-02-01 19:43:03,1,0,0
 
-02-09-2020_2320.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2020-02-09 23:33:02,29631,871,1795
 Guangdong,Mainland China,2020-02-10 03:43:20,1151,1,147
@@ -2611,16 +2566,12 @@ Tibet,Mainland China,2020-02-01 01:52:40,1,0,0
 "Seattle, WA",US,2020-02-09 07:03:04,1,0,1
 "Tempe, AZ",US,2020-02-01 19:43:03,1,0,0
 
-Rename
 404: Not Found
 
-09-11-2020_2320.csv
 404: Not Found
 
-to
 404: Not Found
 
-02-09-2020_2320.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2020-02-09 23:33:02,29631,871,1795
 Guangdong,Mainland China,2020-02-10 03:43:20,1151,1,147
@@ -2695,7 +2646,6 @@ Tibet,Mainland China,2020-02-01 01:52:40,1,0,0
 "Seattle, WA",US,2020-02-09 07:03:04,1,0,1
 "Tempe, AZ",US,2020-02-01 19:43:03,1,0,0
 
-02-10-2020_1030.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2020-02-10 13:33:02,29631,871,1854
 Guangdong,Mainland China,2020-02-10 13:43:02,1159,1,167
@@ -2770,7 +2720,6 @@ Tibet,Mainland China,2020-02-01 01:52:40,1,0,0
 "Seattle, WA",US,2020-02-09 07:03:04,1,0,1
 "Tempe, AZ",US,2020-02-01 19:43:03,1,0,0
 
-02-10-2020_1930.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2020-02-10 23:33:02,31728,974,2222
 Guangdong,Mainland China,2020-02-10 13:43:02,1159,1,167
@@ -2845,7 +2794,6 @@ Tibet,Mainland China,2020-02-01 01:52:40,1,0,0
 "Seattle, WA",US,2020-02-09 07:03:04,1,0,1
 "Tempe, AZ",US,2020-02-01 19:43:03,1,0,0
 
-02-11-2020_1050.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2020-02-11 14:03:05,31728,974,2310
 Guangdong,Mainland China,2020-02-11 14:03:05,1177,1,212
@@ -2921,16 +2869,12 @@ Tibet,Mainland China,2020-02-01 01:52:40,1,0,0
 "Seattle, WA",US,2020-02-09 07:03:04,1,0,1
 "Tempe, AZ",US,2020-02-01 19:43:03,1,0,0
 
-Rename
 404: Not Found
 
-02-22-2020_1050.csv
 404: Not Found
 
-to
 404: Not Found
 
-02-11-2020_1050.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2020-02-11 14:03:05,31728,974,2310
 Guangdong,Mainland China,2020-02-11 14:03:05,1177,1,212
@@ -3006,7 +2950,6 @@ Tibet,Mainland China,2020-02-01 01:52:40,1,0,0
 "Seattle, WA",US,2020-02-09 07:03:04,1,0,1
 "Tempe, AZ",US,2020-02-01 19:43:03,1,0,0
 
-02-11-2020_2044.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2020-02-11 23:33:02,33366,1068,2639
 Guangdong,Mainland China,2020-02-12 01:23:06,1219,1,241
@@ -3082,7 +3025,6 @@ Tibet,Mainland China,2020-02-01 01:52:40,1,0,0
 "Seattle, WA",US,2020-02-09 07:03:04,1,0,1
 "Tempe, AZ",US,2020-02-01 19:43:03,1,0,0
 
-02-12-2020_1020.csv
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2020-02-12 14:13:08,33366,1068,2686
 Guangdong,Mainland China,2020-02-12 12:23:09,1219,1,275
