@@ -50,6 +50,7 @@
 2020-02-09 01:47:03,679 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
 2020-02-09 01:47:04,440 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
 2020-02-09 01:47:05,008 INFO __main__ Successfull Append of the data file extraction with the last update:2020-02-08 17:17:00 web last update: 2020-02-08 20:02:00
+<<<<<<< HEAD
 2020-02-09 17:31:53,266 INFO __main__ Sarting process SCRAPE_NBO
 2020-02-09 17:31:53,277 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
 2020-02-09 17:33:28,242 INFO __main__ Sarting process SCRAPE_NBO
@@ -292,3 +293,17 @@
 2020-02-11 23:38:23,316 INFO __main__ Persisting in GIT
 2020-02-11 23:38:23,348 DEBUG git.cmd Popen(['git', 'add', 'data.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
 2020-02-11 23:38:23,366 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+=======
+2020-02-09 21:33:54,029 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 21:33:54,868 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 21:33:55,452 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-09 21:33:57,049 INFO __main__ Successfull Append of the data file extraction with the last update:2020-02-08 20:02:00 web last update: 2020-02-09 16:17:00
+2020-02-10 21:36:44,170 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 21:36:45,325 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 21:36:46,458 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-10 21:36:47,808 INFO __main__ Successfull Append of the data file extraction with the last update:2020-02-09 16:17:00 web last update: 2020-02-10 12:56:00
+2020-02-11 23:18:53,892 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 23:18:54,516 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-11 23:18:55,881 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-11 23:18:56,889 INFO __main__ Successfull Append of the data file extraction with the last update:2020-02-10 12:56:00 web last update: 2020-02-11 17:16:00
+>>>>>>> ddf8b6196075c280ab65c3d16d7c315efb30f551
