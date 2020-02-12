@@ -50,3 +50,245 @@
 2020-02-09 01:47:03,679 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
 2020-02-09 01:47:04,440 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
 2020-02-09 01:47:05,008 INFO __main__ Successfull Append of the data file extraction with the last update:2020-02-08 17:17:00 web last update: 2020-02-08 20:02:00
+2020-02-09 17:31:53,266 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 17:31:53,277 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 17:33:28,242 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 17:33:28,250 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 17:36:27,614 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 17:36:27,620 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 17:42:15,361 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 17:42:15,366 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 17:44:17,185 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 17:44:17,192 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 17:44:46,148 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 17:44:46,154 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 17:45:00,987 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 17:45:00,992 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 17:45:53,124 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 17:45:53,136 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 17:45:53,139 ERROR __main__ Problem Scraping: Error
+2020-02-09 17:47:21,239 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 17:47:21,245 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 17:47:21,247 ERROR __main__ Problem Scraping: Error
+2020-02-09 17:47:21,779 ERROR __main__ No update date found in the data file!!
+2020-02-09 17:49:21,628 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 17:49:21,635 ERROR __main__ Problem Scraping: Error
+2020-02-09 17:49:22,257 ERROR __main__ No update date found in the data file!!
+2020-02-09 17:49:40,853 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 17:49:40,858 ERROR __main__ Problem Scraping: Error
+2020-02-09 17:49:41,416 ERROR __main__ No update date found in the data file!!
+2020-02-09 17:52:20,848 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 17:52:20,854 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-09 17:52:20,858 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://github.com/ HTTP/1.1" 301 0
+2020-02-09 17:52:20,860 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-09 17:52:20,941 DEBUG urllib3.connectionpool https://github.com:443 "GET / HTTP/1.1" 200 None
+2020-02-09 17:55:27,357 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 17:55:27,363 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-09 17:55:27,367 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://github.com/ HTTP/1.1" 301 0
+2020-02-09 17:55:27,369 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-09 17:55:27,428 DEBUG urllib3.connectionpool https://github.com:443 "GET / HTTP/1.1" 200 None
+2020-02-09 17:55:27,498 ERROR __main__ Problem Scraping: ErrorError list index out of range
+2020-02-09 17:55:28,104 ERROR __main__ No update date found in the data file!!
+2020-02-09 18:05:10,879 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 18:05:10,887 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 18:05:10,889 ERROR __main__ Problem Scraping: Error
+2020-02-09 18:05:11,483 ERROR __main__ No update date found in the data file!!
+2020-02-09 18:10:59,426 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 18:10:59,434 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 18:10:59,435 ERROR __main__ Problem Scraping: Error
+2020-02-09 18:11:00,089 ERROR __main__ No update date found in the data file!!
+2020-02-09 18:11:15,838 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-09 18:11:15,845 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-09 18:11:15,847 ERROR __main__ Problem Scraping: Error
+2020-02-09 18:11:16,442 ERROR __main__ No update date found in the data file!!
+2020-02-10 16:40:58,351 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 16:40:58,362 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 16:40:58,364 ERROR __main__ Problem Scraping: Error
+2020-02-10 16:40:59,077 ERROR __main__ No update date found in the data file!!
+2020-02-10 21:06:26,653 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 21:06:26,659 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 21:06:26,661 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-10 21:08:28,446 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 21:08:28,452 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 21:08:28,454 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-10 21:08:29,066 ERROR __main__ No update date found in the data file!!
+2020-02-10 21:19:38,518 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 21:19:38,527 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 21:19:38,529 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-10 21:19:39,226 ERROR __main__ No update date found in the data file!!
+2020-02-10 21:22:22,204 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 21:22:22,211 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 21:22:22,212 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-10 21:24:08,259 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 21:24:08,265 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 21:24:08,266 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-10 21:26:36,916 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 21:26:36,921 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 21:26:36,923 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-10 21:26:37,585 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-10 21:26:37,594 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-10 21:26:55,107 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 21:26:55,112 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 21:26:55,113 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-10 21:26:55,687 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-10 21:26:55,696 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-10 21:29:56,355 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 21:29:56,361 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 21:29:56,362 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-10 21:29:57,164 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-10 21:29:57,172 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-10 21:29:57,183 DEBUG git.cmd Popen(['git', 'status'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-10 21:31:11,522 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 21:31:11,528 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 21:31:11,529 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-10 21:31:12,649 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-10 21:31:12,658 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-10 21:31:12,669 DEBUG git.cmd Popen(['git', 'status'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-10 23:10:00,645 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 23:10:00,658 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): tinyurl.com:443
+2020-02-10 23:10:00,931 DEBUG urllib3.connectionpool https://tinyurl.com:443 "GET /qs5cjxk HTTP/1.1" 301 None
+2020-02-10 23:10:00,936 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 23:10:00,940 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-10 23:13:28,866 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 23:13:28,872 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): tinyurl.com:443
+2020-02-10 23:13:29,152 DEBUG urllib3.connectionpool https://tinyurl.com:443 "GET /qs5cjxk HTTP/1.1" 301 None
+2020-02-10 23:13:29,156 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 23:13:29,159 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-10 23:15:20,277 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 23:15:20,282 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): tinyurl.com:443
+2020-02-10 23:15:20,283 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='tinyurl.com', port=443): Max retries exceeded with url: /qs5cjxk (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fed320e2c18>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+2020-02-10 23:18:00,270 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 23:18:00,277 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): tinyurl.com:443
+2020-02-10 23:18:00,542 DEBUG urllib3.connectionpool https://tinyurl.com:443 "GET / HTTP/1.1" 200 None
+2020-02-10 23:18:00,556 ERROR __main__ Problem Scraping: ErrorError list index out of range
+2020-02-10 23:18:29,362 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 23:18:29,367 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): tinyurl.com:443
+2020-02-10 23:18:29,636 DEBUG urllib3.connectionpool https://tinyurl.com:443 "GET /qs5cjxk HTTP/1.1" 301 None
+2020-02-10 23:18:29,640 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 23:18:29,643 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-10 23:33:12,084 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 23:33:12,090 ERROR __main__ Problem Accessing web page:Error gral. errorInvalid URL 'goo.gl/8zcNkZ': No schema supplied. Perhaps you meant http://goo.gl/8zcNkZ?
+2020-02-10 23:34:00,584 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 23:34:00,590 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-10 23:34:00,753 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://tinyurl.com/qs5cjxk HTTP/1.1" 301 None
+2020-02-10 23:34:00,757 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 23:34:00,758 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-10 23:36:00,023 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 23:36:00,028 ERROR __main__ Problem Accessing web page:Error gral. errorInvalid URL 'tinyurl.com/qs5cjxk': No schema supplied. Perhaps you meant http://tinyurl.com/qs5cjxk?
+2020-02-10 23:36:31,184 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-10 23:36:31,190 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-10 23:36:31,342 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://tinyurl.com/qs5cjxk HTTP/1.1" 301 None
+2020-02-10 23:36:31,345 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-10 23:36:31,346 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fed32e964e0>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+2020-02-11 00:00:35,649 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:00:35,658 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-11 00:00:35,670 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://tinyurl.com/ HTTP/1.1" 301 None
+2020-02-11 00:00:35,672 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): tinyurl.com:443
+2020-02-11 00:00:35,673 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='tinyurl.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fed361c1da0>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+2020-02-11 00:01:24,893 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:01:24,900 ERROR __main__ Problem Accessing web page:Error gral. errorInvalid URL 'www.tinyurl.com': No schema supplied. Perhaps you meant http://www.tinyurl.com?
+2020-02-11 00:01:58,800 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:01:59,649 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-11 00:01:59,650 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://www.tinyurl.com/ HTTP/1.1" 403 811
+2020-02-11 00:02:45,952 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:02:45,957 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-11 00:02:45,958 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://www.tinyurl.com/qs5cjxk HTTP/1.1" 403 811
+2020-02-11 00:03:20,636 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:03:20,643 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-11 00:03:20,644 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://www.tinyurl.com/qs5cjxk HTTP/1.1" 403 811
+2020-02-11 00:05:06,188 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:05:06,201 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): www.tinyurl.com:443
+2020-02-11 00:05:06,202 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='www.tinyurl.com', port=443): Max retries exceeded with url: /qs5cjxk (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fed32922940>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+2020-02-11 00:05:36,539 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:05:36,545 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-11 00:05:36,546 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://www.tinyurl.com/qs5cjxk HTTP/1.1" 403 811
+2020-02-11 00:05:36,547 ERROR __main__ Problem Accessing web page:Error status code
+2020-02-11 00:05:53,178 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:05:53,184 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-11 00:05:53,185 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://www.tinyurl.com/ HTTP/1.1" 403 811
+2020-02-11 00:05:53,186 ERROR __main__ Problem Accessing web page:Error status code
+2020-02-11 00:06:11,967 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:06:11,975 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-11 00:06:11,976 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://www.tinyurl.com/ HTTP/1.1" 403 811
+2020-02-11 00:06:11,977 ERROR __main__ Problem Accessing web page:Error status code
+2020-02-11 00:06:37,195 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:06:37,203 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-11 00:06:37,204 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://www.tinyurl.com/ HTTP/1.1" 403 811
+2020-02-11 00:06:37,205 ERROR __main__ Problem Accessing web page:Error status code
+2020-02-11 00:09:00,174 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:09:00,181 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-11 00:09:00,182 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://www.tinyurl.com/qs5cjxk HTTP/1.1" 403 811
+2020-02-11 00:09:00,183 ERROR __main__ Problem Accessing web page:Error status code
+2020-02-11 00:09:30,453 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:09:30,459 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-11 00:09:30,617 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://tinyurl.com/qs5cjxk HTTP/1.1" 301 None
+2020-02-11 00:09:30,624 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-11 00:09:30,628 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-11 00:10:07,799 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:10:07,807 DEBUG urllib3.connectionpool Starting new HTTP connection (1): proxy.server:3128
+2020-02-11 00:10:07,809 DEBUG urllib3.connectionpool http://proxy.server:3128 "GET http://tinyurl.com/ HTTP/1.1" 301 None
+2020-02-11 00:10:07,811 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): tinyurl.com:443
+2020-02-11 00:10:08,082 DEBUG urllib3.connectionpool https://tinyurl.com:443 "GET / HTTP/1.1" 200 None
+2020-02-11 00:10:08,099 ERROR __main__ Problem Scraping: ErrorError list index out of range
+2020-02-11 00:16:38,897 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:16:38,911 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:17:19,182 DEBUG git.cmd Popen(['git', 'status'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:17:46,100 DEBUG git.cmd Popen(['git', 'push'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:24:57,604 DEBUG git.cmd Popen(['git', 'push'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:26:52,883 DEBUG git.cmd Popen(['git', 'push', 'https://perell2014:aaaAAA2014@github.com/perell2014/data_2019ncov.git'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:41:25,192 DEBUG git.cmd Popen(['git', 'status'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:41:34,416 DEBUG git.cmd Popen(['git', 'push', 'https://github.com/perell2014/data_2019ncov.git'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:42:22,559 DEBUG git.cmd Popen(['git', 'status'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:45:19,872 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:45:19,883 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-11 00:45:19,885 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-11 00:45:36,171 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:45:36,186 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-11 00:45:36,190 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-11 00:45:36,874 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:45:36,893 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:45:36,911 DEBUG git.cmd Popen(['git', 'status'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:45:36,985 DEBUG git.cmd Popen(['git', 'push'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:46:58,032 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:46:58,040 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-11 00:46:58,045 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-11 00:46:58,679 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:46:58,688 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:46:58,709 DEBUG git.cmd Popen(['git', 'status'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:46:58,769 DEBUG git.cmd Popen(['git', 'push'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:47:08,784 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:47:08,789 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-11 00:47:08,791 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-11 00:47:09,386 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:47:09,396 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:47:09,422 DEBUG git.cmd Popen(['git', 'status'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:47:09,452 DEBUG git.cmd Popen(['git', 'push'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:53:51,678 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:53:51,686 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-11 00:53:51,688 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-11 00:57:48,389 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:57:48,396 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-11 00:57:48,397 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-11 00:57:49,066 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:57:49,078 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:58:14,112 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:58:14,122 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-11 00:58:14,127 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-11 00:58:14,784 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:58:14,797 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:59:10,109 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 00:59:10,118 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-11 00:59:10,120 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-11 00:59:10,696 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:59:10,708 DEBUG git.cmd Popen(['git', 'version'], cwd=/home/perell, universal_newlines=False, shell=None, istream=None)
+2020-02-11 00:59:10,759 DEBUG git.cmd Popen(['git', 'push'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 23:36:26,226 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 23:36:26,238 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-11 23:36:26,240 ERROR __main__ Problem Accessing web page:Error connection. error:HTTPSConnectionPool(host='bnonews.com', port=443): Max retries exceeded with url: /index.php/2020/02/the-latest-coronavirus-cases/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+2020-02-11 23:38:22,744 INFO __main__ Sarting process SCRAPE_NBO
+2020-02-11 23:38:22,752 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): bnonews.com:443
+2020-02-11 23:38:23,225 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
+2020-02-11 23:38:23,316 INFO __main__ Successfull Append of the data file extraction with the last update:2020-02-08 20:02:00 with web last update: 2020-02-11 17:16:00
+2020-02-11 23:38:23,316 INFO __main__ Persisting in GIT
+2020-02-11 23:38:23,348 DEBUG git.cmd Popen(['git', 'add', 'data.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-11 23:38:23,366 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
