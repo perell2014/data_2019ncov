@@ -307,3 +307,46 @@
 2020-02-11 23:18:55,881 DEBUG urllib3.connectionpool https://bnonews.com:443 "GET /index.php/2020/02/the-latest-coronavirus-cases/ HTTP/1.1" 200 None
 2020-02-11 23:18:56,889 INFO __main__ Successfull Append of the data file extraction with the last update:2020-02-10 12:56:00 web last update: 2020-02-11 17:16:00
 >>>>>>> ddf8b6196075c280ab65c3d16d7c315efb30f551
+2020-02-15 02:04:58,689 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: True
+2020-02-15 02:06:06,458 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: True
+2020-02-15 02:06:06,469 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 02:06:06,717 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 02:19:04,495 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: True
+2020-02-15 02:19:04,504 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 02:19:04,698 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 02:19:04,727 ERROR __main__ failed to send mail
+2020-02-15 02:19:04,729 ERROR __main__ failed to send mail
+2020-02-15 02:28:40,094 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: True
+2020-02-15 02:28:40,103 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 02:28:40,347 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 02:28:40,435 ERROR __main__ failed to send mail
+2020-02-15 02:28:40,445 ERROR __main__ failed to send mail
+2020-02-15 02:29:31,604 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: True
+2020-02-15 02:29:31,615 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 02:29:31,832 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 02:29:31,893 ERROR __main__ failed to send mail
+2020-02-15 02:29:31,894 ERROR __main__ failed to send mail
+2020-02-15 02:33:12,767 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: True
+2020-02-15 02:33:12,794 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 02:33:13,000 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 02:33:42,088 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: True
+2020-02-15 02:33:42,104 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 02:33:42,330 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 02:41:25,383 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: True
+2020-02-15 02:41:25,389 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 02:41:25,595 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 02:41:25,652 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 02:41:25,673 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 02:41:25,682 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 02:41:25,885 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 02:54:56,292 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: True
+2020-02-15 02:54:56,298 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 02:54:56,516 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 02:54:56,574 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 02:54:56,781 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 02:54:56,791 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 02:54:56,810 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 02:54:56,817 INFO __main__ Successfull Append of: 2previous lastdate: 2020-02-12 14:13:08, final last date: 2020-02-22 00:00:00
+2020-02-15 02:54:56,817 INFO __main__ Persisting in GIT
+2020-02-15 02:54:56,945 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-15 02:54:56,975 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
