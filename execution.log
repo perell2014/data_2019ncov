@@ -449,3 +449,15 @@
 2020-02-15 03:22:53,831 INFO __main__ Persisting in GIT
 2020-02-15 03:22:53,910 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
 2020-02-15 03:22:53,941 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-15 03:22:53,983 DEBUG git.cmd Popen(['git', 'commit', '-m', 'Last on 2020-02-15_03:22:53'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-15 03:24:29,001 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: True
+2020-02-15 03:24:29,011 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 03:24:29,281 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 03:24:29,315 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 03:24:29,555 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 03:24:29,565 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-02-15 03:24:29,584 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-02-15 03:24:29,591 INFO __main__ Successfull Append of: 2 previous lastdate: 2020-02-12 14:13:08, final last date: 2020-02-12 14:13:08
+2020-02-15 03:24:29,592 INFO __main__ Persisting in GIT
+2020-02-15 03:24:29,667 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-15 03:24:29,691 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
