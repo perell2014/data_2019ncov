@@ -931,3 +931,5 @@
 2020-02-15 22:01:50,425 INFO __main__ Persisting in GIT
 2020-02-15 22:01:50,605 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
 2020-02-15 22:01:50,643 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-15 22:01:50,733 DEBUG git.cmd Popen(['git', 'commit', '-m', 'Last on 2020-02-15_22:01:50'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-02-15 22:01:50,936 DEBUG git.cmd Popen(['git', 'push'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
