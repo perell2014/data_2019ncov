@@ -16,7 +16,7 @@
 <p style="text-align: left;">The evolution page of the dashboard displays the evolution of COVID-19 cases across time per location in a map.</p>
 <p style="text-align: center;"><img src="https://perell2014.github.io/data_2019ncov//images/evolution_2019ncov.png" alt="2019_nCov Evolution snapshot" width="564" height="316" /></p>
 <hr />
-<h3><br /> <strong>Data sources provider</strong></h3>
+<h3><strong>Data sources provider</strong></h3>
 <p>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE):<a href="https://systems.jhu.edu/" rel="nofollow">https://systems.jhu.edu/</a></p>
 <p><strong>Data sources</strong></p>
 <ul>
@@ -42,10 +42,13 @@
 <ul>
 <li>Data quality check</li>
 <li>Improve data ackisition fallback protection&nbsp;</li>
-<li>Polish the productlook and fill and information page</li>
-<li>Add&nbsp;SARS-CoV data and perform a comparison with COVID-19&nbsp;</li>
+<li>Polish the information page look and feel</li>
+<li>Add&nbsp;SARS-CoV data to the dashboard to perform a comparison between SARS-CoV and COVID-19&nbsp;</li>
 </ul>
 <hr />
+<h3><strong>Trouble shooting</strong></h3>
+ <p>Some versions of Google Chrome browser may not be able to display data in the evolution map on the dashboard evolution view (mapbox component issue with Chrome). To overcome this issue, you may use an icognito Google Chrome window hitting the keys (Ctr+Shift+N on Chrome) and point to the Dashboard url, or use Firefox/Explorer (tested ok), browser instead.</p>
+<hr /> 
 <h3><strong>Disclaimer</strong></h3>
 <p>This testing dashboard is provided to the public strictly for educational and academic research purposes. The displayed measures rely on experimental calculations, and may lead to wrong conclusions. Furthermore, the Website relies upon publicly available data from multiple sources, that do not always agree. The author hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.</p>
 <hr />
@@ -53,9 +56,6 @@
 <p>Thanks to&nbsp;Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE), for providing access for the data sources.</p>
 <hr />
 <p>Send your comments to&nbsp;<a href="mailto:perell2020@gmail.com?Subject=2019_nCovCasesEvolution%20Dashboard%20feedback" target="_top">send email</a></p>
-<p><a href="http://creativecommons.org/licenses/by/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="Creative Commons Licence" /></a><br />This work is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.</p>
-
-
-
-
-
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</p>
+</body>
+</html>
