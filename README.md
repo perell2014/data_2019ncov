@@ -8,9 +8,9 @@
 <li>Contact: perell2020@gmail.com</li>
 </ul>
 <hr />
-<h2>Visualizing the current status of COVID-19 cases and the outbreak evolution on in an interactive way</h2>
-<p>The 2019&ndash;20 coronavirus outbreak (COVID-19 outbreak) is an ongoing epidemic of coronavirus disease 2019 (COVID-19) caused by the 2019 novel coronavirus (SARS-CoV-2).&nbsp;&nbsp;<a title="2019-2020 Wuhan coronavirus outbreak" href="https://en.wikipedia.org/wiki/2019%E2%80%9320_Wuhan_coronavirus_outbreak" target="_blank" rel="noopener">+Info Wikipedia&gt;&gt;</a></p>
-<h3><strong>This sample dashboard visualizes the last reported status and evolution of the COVID-19 outbreak:</strong></h3>
+<h2>Visualising the Wuhan coronavirus outbreak (COVID-19)</h2>
+<p>The 2019&ndash;20 coronavirus outbreak (COVID-19), is an ongoing epidemic of coronavirus disease caused by the 2019 novel coronavirus (SARS-CoV-2).&nbsp;&nbsp;<a title="2019-2020 Wuhan coronavirus outbreak" href="https://en.wikipedia.org/wiki/2019%E2%80%9320_Wuhan_coronavirus_outbreak" target="_blank" rel="noopener">+Info Wikipedia&gt;&gt;</a></p>
+<h3><strong>This preliminary dashboard visualizes the last reported status and evolution of the COVID-19 outbreak:</strong></h3>
 <p>The overview page of the dashboard displays the latest COVID-19 reported cases, deaths and recoveries per country in a map, and province/state level views using a table and bar charts. In the center of the dashboard we have a chart displaying the amount of cases,deaths and recoveries according to the number of days since <a title="WHO Coronavirus disease reporting from Wuhan, China" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019" target="_blank" rel="noopener">China reported to WHO instance of the disease (12/31/2019)</a>.</p>
 <p style="text-align: center;"><img src="https://perell2014.github.io/data_2019ncov//images/overview_2019ncov.png" alt="2019_nCov Overview snapshot" width="570" height="319" />&nbsp;</p>
 <p style="text-align: left;">The evolution page of the dashboard displays the evolution of COVID-19 cases across time per location in a map.</p>
@@ -36,7 +36,7 @@
 </ul>
 <hr />
 <h3><strong>Solution description</strong></h3>
-<p>The dashboard is an automated end to end solution buit in Power BI. Twice a day the data is extracted from the JHU public data repository and stored into an online storage layer using python. The Power BI dataset is get refreshed twice a day accessing this storage layer.</p>
+<p>The dashboard is an automated end to end solution built in Power BI. The information is extracted from the JHU public data repository twice a day, and stored into an online storage. Power BI access the data from the storage layer to display the COVID-19 overview of cases, deaths and recoveries, across time.</p>
 <hr />
 <h3><strong>Pending actions/improvements</strong></h3>
 <ul>
@@ -47,8 +47,8 @@
 </ul>
 <hr />
 <h3><strong>Trouble shooting</strong></h3>
- <p>Some versions of Google Chrome browser may not be able to display data in the evolution map on the dashboard evolution view (mapbox component issue with Chrome). To overcome this issue, you may use an icognito Google Chrome window hitting the keys (Ctr+Shift+N on Chrome) and point to the Dashboard url, or use Firefox/Explorer (tested ok), browser instead.</p>
-<hr /> 
+<p>Some versions of Google Chrome browser may not be able to display data in the evolution map on the dashboard evolution view (mapbox component issue with Chrome). To overcome this issue, you may use an icognito Google Chrome window hitting the keys (Ctr+Shift+N on Chrome) and point to the Dashboard url, or use Firefox/Explorer (tested ok), browser instead.</p>
+<hr />
 <h3><strong>Disclaimer</strong></h3>
 <p>This testing dashboard is provided to the public strictly for educational and academic research purposes. The displayed measures rely on experimental calculations, and may lead to wrong conclusions. Furthermore, the Website relies upon publicly available data from multiple sources, that do not always agree. The author hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.</p>
 <hr />
@@ -56,6 +56,4 @@
 <p>Thanks to&nbsp;Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE), for providing access for the data sources.</p>
 <hr />
 <p>Send your comments to&nbsp;<a href="mailto:perell2020@gmail.com?Subject=2019_nCovCasesEvolution%20Dashboard%20feedback" target="_top">send email</a></p>
-<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</p>
-</body>
-</html>
+<p><a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" alt="Creative Commons Licence" /></a><br />This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" rel="license">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</p>
