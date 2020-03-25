@@ -1072,3 +1072,16 @@ Clean log - 16/02/2020
 2020-03-25 07:35:15,249 INFO __main__ Persisting in GIT
 2020-03-25 07:35:15,398 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
 2020-03-25 07:35:15,554 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-03-25 07:35:15,629 DEBUG git.cmd Popen(['git', 'commit', '-m', 'Last on 2020-03-25_07:35:15'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-03-25 07:35:15,946 DEBUG git.cmd Popen(['git', 'push'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-03-25 22:01:22,584 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-25 22:01:22,835 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-03-25 22:01:23,148 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-03-25 22:01:23,297 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-25 22:01:23,372 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-23-2020.csv HTTP/1.1" 200 92978
+2020-03-25 22:01:23,410 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-25 22:01:23,500 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-24-2020.csv HTTP/1.1" 200 104917
+2020-03-25 22:01:23,565 INFO __main__ Successfull Append of: 2 previous lastdate: 2020-03-22 09:43:06, final last date: 2020-03-24 00:00:00
+2020-03-25 22:01:23,566 INFO __main__ Persisting in GIT
+2020-03-25 22:01:23,684 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-03-25 22:01:24,007 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
