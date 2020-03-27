@@ -1164,3 +1164,20 @@ Clean log - 16/02/2020
 2020-03-27 07:35:14,473 INFO __main__ Persisting in GIT
 2020-03-27 07:35:14,549 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
 2020-03-27 07:35:14,798 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-03-27 07:35:14,888 DEBUG git.cmd Popen(['git', 'commit', '-m', 'Last on 2020-03-27_07:35:14'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-03-27 07:35:15,266 DEBUG git.cmd Popen(['git', 'push'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-03-27 22:01:19,464 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-27 22:01:20,757 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-03-27 22:01:21,233 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-03-27 22:01:21,411 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-27 22:01:21,532 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-23-2020.csv HTTP/1.1" 200 104672
+2020-03-27 22:01:21,550 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-27 22:01:21,676 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-24-2020.csv HTTP/1.1" 200 93227
+2020-03-27 22:01:21,729 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-27 22:01:21,841 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-25-2020.csv HTTP/1.1" 200 105196
+2020-03-27 22:01:21,877 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-27 22:01:22,036 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-26-2020.csv HTTP/1.1" 200 93926
+2020-03-27 22:01:22,139 INFO __main__ Successfull Append of: 4 previous lastdate: 2020-03-22 09:43:06, final last date: 2020-03-26 00:00:00
+2020-03-27 22:01:22,141 INFO __main__ Persisting in GIT
+2020-03-27 22:01:22,391 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-03-27 22:01:23,952 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
