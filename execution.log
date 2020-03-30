@@ -1221,3 +1221,18 @@ Clean log - 16/02/2020
 2020-03-28 07:35:14,871 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
 2020-03-28 07:35:15,015 DEBUG git.cmd Popen(['git', 'commit', '-m', 'Last on 2020-03-28_07:35:15'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
 2020-03-28 07:35:15,547 DEBUG git.cmd Popen(['git', 'push'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-03-28 22:01:20,528 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-28 22:01:21,478 ERROR __main__ Error parsing the last date in the datefile:/home/perell/data_2019ncov/data_jhu.txt
+2020-03-28 22:01:22,191 ERROR __main__ failed to send mail
+2020-03-29 03:01:45,111 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-29 03:01:46,503 ERROR __main__ Error parsing the last date in the datefile:/home/perell/data_2019ncov/data_jhu.txt
+2020-03-29 03:01:47,188 ERROR __main__ failed to send mail
+2020-03-29 07:35:14,828 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-29 07:35:15,225 ERROR __main__ Error parsing the last date in the datefile:/home/perell/data_2019ncov/data_jhu.txt
+2020-03-29 07:35:15,976 ERROR __main__ failed to send mail
+2020-03-29 22:01:16,239 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-29 22:01:16,786 ERROR __main__ Error parsing the last date in the datefile:/home/perell/data_2019ncov/data_jhu.txt
+2020-03-29 22:01:17,516 ERROR __main__ failed to send mail
+2020-03-30 03:01:38,282 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-30 03:01:39,406 ERROR __main__ Error parsing the last date in the datefile:/home/perell/data_2019ncov/data_jhu.txt
+2020-03-30 03:01:40,025 ERROR __main__ failed to send mail
