@@ -1771,3 +1771,56 @@ Clean log - 16/02/2020
 2020-03-30 17:10:00,592 INFO __main__ Persisting in GIT
 2020-03-30 17:10:00,707 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
 2020-03-30 17:10:00,733 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-03-30 17:10:00,805 DEBUG git.cmd Popen(['git', 'commit', '-m', 'Last on 2020-03-30_17:10:00'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-03-30 17:10:00,981 DEBUG git.cmd Popen(['git', 'push'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-03-30 17:13:17,824 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-30 17:13:17,825 ERROR __main__ Could not open/read file: /home/perell/data_2019ncov/data_jhu.txt Error: [Errno 2] No such file or directory: '/home/perell/data_2019ncov/data_jhu.txt'
+2020-03-30 17:14:39,536 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-30 17:14:39,536 ERROR __main__ Could not open/read file: /home/perell/data_2019ncov/data_jhu.txt Error: [Errno 2] No such file or directory: '/home/perell/data_2019ncov/data_jhu.txt'
+2020-03-30 17:16:04,048 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-30 17:16:04,049 ERROR __main__ Could not open/read file: /home/perell/data_2019ncov/data_jhu.txt Error: [Errno 2] No such file or directory: '/home/perell/data_2019ncov/data_jhu.txt'
+2020-03-30 17:16:51,626 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-30 17:16:51,626 ERROR __main__ Could not open/read file: /home/perell/data_2019ncov/data_jhu.txt Error: [Errno 2] No such file or directory: '/home/perell/data_2019ncov/data_jhu.txt'
+2020-03-30 17:16:59,833 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-30 17:17:51,245 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-30 17:17:51,267 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-03-30 17:17:51,557 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-03-30 17:17:51,599 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-30 17:17:51,615 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-24-2020.csv HTTP/1.1" 200 104917
+2020-03-30 17:17:51,626 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-30 17:17:51,641 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-25-2020.csv HTTP/1.1" 200 105196
+2020-03-30 17:17:51,657 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-30 17:17:51,674 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-26-2020.csv HTTP/1.1" 200 93926
+2020-03-30 17:17:51,688 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-30 17:17:51,702 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-27-2020.csv HTTP/1.1" 200 94243
+2020-03-30 17:17:51,719 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-30 17:17:51,735 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-28-2020.csv HTTP/1.1" 200 94547
+2020-03-30 17:17:51,760 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-30 17:17:51,776 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-29-2020.csv HTTP/1.1" 200 94778
+2020-03-30 17:17:51,803 ERROR __main__ Error parsing the last date in the datefile:/home/perell/data_2019ncov/data_jhu.txt
+2020-03-30 17:40:48,138 INFO __main__ Sarting process SCRAPE from datafile: data_jhu1.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-30 17:40:48,139 ERROR __main__ Could not open/read file: /home/perell/data_2019ncov/data_jhu1.txt Error: [Errno 2] No such file or directory: '/home/perell/data_2019ncov/data_jhu1.txt'
+2020-03-30 17:44:13,513 INFO __main__ Sarting process SCRAPE from datafile: data_jhu1.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-30 17:44:13,514 ERROR __main__ Could not open/read file: /home/perell/data_2019ncov/data_jhu1.txt Error: [Errno 2] No such file or directory: '/home/perell/data_2019ncov/data_jhu1.txt'
+2020-03-30 17:44:27,496 INFO __main__ Sarting process SCRAPE from datafile: data_jhu1.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-30 17:44:27,497 ERROR __main__ Could not open/read file: /home/perell/data_2019ncov/data_jhu1.txt Error: [Errno 2] No such file or directory: '/home/perell/data_2019ncov/data_jhu1.txt'
+2020-03-30 17:45:57,105 INFO __main__ Sarting process SCRAPE from datafile: data_jhu1.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-30 17:47:45,929 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-03-30 17:47:45,944 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-03-30 17:47:46,181 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-03-30 17:47:46,256 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-30 17:47:46,287 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-24-2020.csv HTTP/1.1" 200 93227
+2020-03-30 17:47:46,309 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-30 17:47:46,335 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-25-2020.csv HTTP/1.1" 200 93548
+2020-03-30 17:47:46,350 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-30 17:47:46,374 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-26-2020.csv HTTP/1.1" 200 93926
+2020-03-30 17:47:46,391 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-30 17:47:46,415 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-27-2020.csv HTTP/1.1" 200 94243
+2020-03-30 17:47:46,425 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-30 17:47:46,448 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-28-2020.csv HTTP/1.1" 200 94547
+2020-03-30 17:47:46,463 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-03-30 17:47:46,480 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-29-2020.csv HTTP/1.1" 200 94778
+2020-03-30 17:47:46,551 INFO __main__ Successfull Append of: 6 previous lastdate: 2020-03-23 23:19:34, final last date: 2020-03-29 00:00:00
+2020-03-30 17:47:46,553 INFO __main__ Persisting in GIT
+2020-03-30 17:47:46,701 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-03-30 17:47:46,862 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
