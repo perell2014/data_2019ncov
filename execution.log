@@ -2764,3 +2764,12 @@ Clean log - 16/02/2020
 2020-05-01 07:35:11,544 INFO __main__ Persisting in GIT
 2020-05-01 07:35:11,657 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
 2020-05-01 07:35:11,690 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-05-01 07:35:11,764 DEBUG git.cmd Popen(['git', 'commit', '-m', 'Last on 2020-05-01_07:35:11'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-05-01 07:35:11,984 DEBUG git.cmd Popen(['git', 'push'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-05-01 22:00:58,898 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-05-01 22:00:59,296 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-05-01 22:00:59,811 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-05-01 22:01:00,097 INFO __main__ Nothing to add yet into the datafile since:2020-04-30 02:32:27
+2020-05-01 22:01:00,099 INFO __main__ Persisting in GIT
+2020-05-01 22:01:00,313 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-05-01 22:01:00,365 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
