@@ -3221,3 +3221,14 @@ Clean log - 16/02/2020
 2020-05-17 22:01:00,726 INFO __main__ Persisting in GIT
 2020-05-17 22:01:00,979 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
 2020-05-17 22:01:01,054 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-05-17 22:01:01,130 DEBUG git.cmd Popen(['git', 'commit', '-m', 'Last on 2020-05-17_22:01:01'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-05-17 22:01:01,467 DEBUG git.cmd Popen(['git', 'push'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-05-18 03:01:10,724 INFO __main__ Sarting process SCRAPE from datafile: data_jhu.txt URLBASE: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ RESETDATAFILE:False DEBUG: False
+2020-05-18 03:01:12,506 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): github.com:443
+2020-05-18 03:01:12,840 DEBUG urllib3.connectionpool https://github.com:443 "GET /CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports/ HTTP/1.1" 200 None
+2020-05-18 03:01:13,224 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-05-18 03:01:13,348 DEBUG urllib3.connectionpool https://raw.githubusercontent.com:443 "GET /CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/05-17-2020.csv HTTP/1.1" 200 99846
+2020-05-18 03:01:13,584 INFO __main__ Successfull Append of: 1 previous lastdate: 2020-05-16 02:32:19, final last date: 2020-05-17 00:00:00
+2020-05-18 03:01:13,608 INFO __main__ Persisting in GIT
+2020-05-18 03:01:13,857 DEBUG git.cmd Popen(['git', 'add', 'data_jhu.txt'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
+2020-05-18 03:01:17,092 DEBUG git.cmd Popen(['git', 'add', 'execution.log'], cwd=/home/perell/data_2019ncov, universal_newlines=False, shell=None, istream=None)
